@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Your Name",
+    "avatar": "/static/images/authors/nextpress.png",
+    "occupation": "Your Job",
+    "company": "Your Company",
+    "email": "ifo@yourwebsite.com",
+    "linkedin": "https://www.linkedin.com",
+    "github": "https://github.com",
+    "twitter": "https://twitter.com/Twitter",
+    "coverImage": "https://picsum.photos/1200/300",
+    "website": "https://yourwebsite.com",
+    "instagram": "https://instagram.com/instagram",
+    "youtube": "https://www.youtube.com",
+    "threads": "https://www.threads.com",
+    "facebook": "https://www.facebook.com",
+    "body": {
+      "raw": "\nExplain about yourself.\n",
+      "code": "var Component=(()=>{var w=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var b=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var d=(t,o)=>()=>(o||t((o={exports:{}}).exports,o),o.exports),g=(t,o)=>{for(var e in o)s(t,e,{get:o[e],enumerable:!0})},c=(t,o,e,a)=>{if(o&&typeof o==\"object\"||typeof o==\"function\")for(let n of b(o))!x.call(t,n)&&n!==e&&s(t,n,{get:()=>o[n],enumerable:!(a=h(o,n))||a.enumerable});return t};var l=(t,o,e)=>(e=t!=null?w(f(t)):{},c(o||!t||!t.__esModule?s(e,\"default\",{value:t,enumerable:!0}):e,t)),y=t=>c(s({},\"__esModule\",{value:!0}),t);var m=d((C,i)=>{i.exports=_jsx_runtime});var k={};g(k,{default:()=>u,frontmatter:()=>_});var r=l(m()),_={name:\"Your Name\",avatar:\"/static/images/authors/nextpress.png\",coverImage:\"https://picsum.photos/1200/300\",occupation:\"Your Job\",company:\"Your Company\",email:\"ifo@yourwebsite.com\",twitter:\"https://twitter.com/Twitter\",linkedin:\"https://www.linkedin.com\",github:\"https://github.com\",website:\"https://yourwebsite.com\",instagram:\"https://instagram.com/instagram\",youtube:\"https://www.youtube.com\",facebook:\"https://www.facebook.com\",threads:\"https://www.threads.com\"};function p(t){let o={p:\"p\",...t.components};return(0,r.jsx)(o.p,{children:\"Explain about yourself.\"})}function u(t={}){let{wrapper:o}=t.components||{};return o?(0,r.jsx)(o,{...t,children:(0,r.jsx)(p,{...t})}):p(t)}return y(k);})();\n;return Component;"
+    },
+    "_id": "authors/default.mdx",
+    "_raw": {
+      "sourceFilePath": "authors/default.mdx",
+      "sourceFileName": "default.mdx",
+      "sourceFileDir": "authors",
+      "contentType": "mdx",
+      "flattenedPath": "authors/default"
+    },
+    "type": "Authors",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.015,
+      "time": 900,
+      "words": 3
+    },
+    "slug": "default",
+    "path": "authors/default",
+    "filePath": "authors/default.mdx",
+    "toc": []
+  }
+]
