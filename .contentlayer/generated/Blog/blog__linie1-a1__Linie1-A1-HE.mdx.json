@@ -1,0 +1,54 @@
+{
+  "title": "Haltestelle E - TESTTRAINING",
+  "date": "2023-10-03T00:00:00.000Z",
+  "tags": [
+    "Linie1 A1"
+  ],
+  "categories": [
+    "Linie1 A1"
+  ],
+  "draft": false,
+  "summary": "HALTESTELLE E: Spielen und wiederholen | Kennen Sie D-A-CH? | TESTTRAINING: Hören | Sprechen",
+  "images": [
+    "/static/images/Books/Linie1-A1/Haltestelle.jpg"
+  ],
+  "body": {
+    "raw": "\n## Lösung\n\n3a A4, B6, C1, D2, E3, F5\n\n3b Dialog 1: B und F, Dialog 2: D und E, Dialog 3: C und A\n\n3c 2F, 3R, 4F, 5R, 6F\n\nHaltestelle E – Testtraining\n\n1 1\\. b, 2\\. b, 3\\. c, 4\\. c, 5\\. a\n\n2b 2\\. f), 3\\. a), 4\\. e), 5\\. b), 6\\. d)\n",
+    "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var f=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),E=(n,e)=>{for(var t in e)i(n,t,{get:e[t],enumerable:!0})},s=(n,e,t,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let l of m(e))!x.call(n,l)&&l!==t&&i(n,l,{get:()=>e[l],enumerable:!(r=g(e,l))||r.enumerable});return n};var A=(n,e,t)=>(t=n!=null?p(u(n)):{},s(e||!n||!n.__esModule?i(t,\"default\",{value:n,enumerable:!0}):t,n)),T=n=>s(i({},\"__esModule\",{value:!0}),n);var d=f((F,c)=>{c.exports=_jsx_runtime});var D={};E(D,{default:()=>h,frontmatter:()=>w});var a=A(d()),w={title:\"Haltestelle E - TESTTRAINING\",id:105,date:\"2023-10-03\",categories:[\"Linie1 A1\"],tags:[\"Linie1 A1\"],images:[\"/static/images/Books/Linie1-A1/Haltestelle.jpg\"],draft:!1,summary:\"HALTESTELLE E: Spielen und wiederholen | Kennen Sie D-A-CH? | TESTTRAINING: H\\xF6ren | Sprechen\"};function o(n){let e={a:\"a\",h2:\"h2\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...n.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h2,{className:\"content-header\",id:\"l\\xF6sung\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#l\\xF6sung\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"L\\xF6sung\"]}),(0,a.jsx)(e.p,{children:\"3a A4, B6, C1, D2, E3, F5\"}),(0,a.jsx)(e.p,{children:\"3b Dialog 1: B und F, Dialog 2: D und E, Dialog 3: C und A\"}),(0,a.jsx)(e.p,{children:\"3c 2F, 3R, 4F, 5R, 6F\"}),(0,a.jsx)(e.p,{children:\"Haltestelle E \\u2013 Testtraining\"}),(0,a.jsx)(e.p,{children:\"1 1. b, 2. b, 3. c, 4. c, 5. a\"}),(0,a.jsx)(e.p,{children:\"2b 2. f), 3. a), 4. e), 5. b), 6. d)\"})]})}function h(n={}){let{wrapper:e}=n.components||{};return e?(0,a.jsx)(e,{...n,children:(0,a.jsx)(o,{...n})}):o(n)}return T(D);})();\n;return Component;"
+  },
+  "_id": "blog/linie1-a1/Linie1-A1-HE.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/linie1-a1/Linie1-A1-HE.mdx",
+    "sourceFileName": "Linie1-A1-HE.mdx",
+    "sourceFileDir": "blog/linie1-a1",
+    "contentType": "mdx",
+    "flattenedPath": "blog/linie1-a1/Linie1-A1-HE"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.285,
+    "time": 17100,
+    "words": 57
+  },
+  "slug": "linie1-a1/Linie1-A1-HE",
+  "path": "blog/linie1-a1/Linie1-A1-HE",
+  "filePath": "blog/linie1-a1/Linie1-A1-HE.mdx",
+  "toc": [
+    {
+      "value": "Lösung",
+      "url": "#lösung-3",
+      "depth": 2
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Haltestelle E - TESTTRAINING",
+    "datePublished": "2023-10-03T00:00:00.000Z",
+    "dateModified": "2023-10-03T00:00:00.000Z",
+    "description": "HALTESTELLE E: Spielen und wiederholen | Kennen Sie D-A-CH? | TESTTRAINING: Hören | Sprechen",
+    "image": "/static/images/Books/Linie1-A1/Haltestelle.jpg",
+    "url": "https://sepdek.vercel.app/blog/linie1-a1/Linie1-A1-HE"
+  }
+}

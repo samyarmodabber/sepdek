@@ -1,0 +1,52 @@
+{
+  "title": "Haltestelle F - TESTTRAINING",
+  "date": "2023-10-03T00:00:00.000Z",
+  "tags": [
+    "Linie1 A1"
+  ],
+  "categories": [],
+  "draft": false,
+  "summary": "HALTESTELLE F: Berufe | Diktat | Spielen und wiederholen / TESTTRAINING: Lesen | Sprechen",
+  "images": [
+    "/static/images/Books/Linie1-A1/Haltestelle.jpg"
+  ],
+  "body": {
+    "raw": "\n## Lösung\n\n1 1 Reiseberater/in, 2 Lokführer/in, 3 Schaffner/in, 4 Kellner/in\n\n**Haltestelle F – Testtraining**\n\n1 1 Richtig, 2 Falsch, 3 Richtig, 4 Richtig, 5 Richtig\n",
+    "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),L=(n,e)=>{for(var a in e)r(n,a,{get:e[a],enumerable:!0})},l=(n,e,a,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of m(e))!f.call(n,i)&&i!==a&&r(n,i,{get:()=>e[i],enumerable:!(s=p(e,i))||s.enumerable});return n};var T=(n,e,a)=>(a=n!=null?g(u(n)):{},l(e||!n||!n.__esModule?r(a,\"default\",{value:n,enumerable:!0}):a,n)),w=n=>l(r({},\"__esModule\",{value:!0}),n);var h=x((j,c)=>{c.exports=_jsx_runtime});var R={};L(R,{default:()=>d,frontmatter:()=>N});var t=T(h()),N={title:\"Haltestelle F - TESTTRAINING\",id:125,date:\"2023-10-03\",tags:[\"Linie1 A1\"],images:[\"/static/images/Books/Linie1-A1/Haltestelle.jpg\"],draft:!1,summary:\"HALTESTELLE F: Berufe | Diktat | Spielen und wiederholen / TESTTRAINING: Lesen | Sprechen\"};function o(n){let e={a:\"a\",h2:\"h2\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(e.h2,{className:\"content-header\",id:\"l\\xF6sung\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#l\\xF6sung\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"L\\xF6sung\"]}),(0,t.jsx)(e.p,{children:\"1 1 Reiseberater/in, 2 Lokf\\xFChrer/in, 3 Schaffner/in, 4 Kellner/in\"}),(0,t.jsx)(e.p,{children:(0,t.jsx)(e.strong,{children:\"Haltestelle F \\u2013 Testtraining\"})}),(0,t.jsx)(e.p,{children:\"1 1 Richtig, 2 Falsch, 3 Richtig, 4 Richtig, 5 Richtig\"})]})}function d(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(o,{...n})}):o(n)}return w(R);})();\n;return Component;"
+  },
+  "_id": "blog/Linie1A1/Linie1-A1-HF.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/Linie1A1/Linie1-A1-HF.mdx",
+    "sourceFileName": "Linie1-A1-HF.mdx",
+    "sourceFileDir": "blog/Linie1A1",
+    "contentType": "mdx",
+    "flattenedPath": "blog/Linie1A1/Linie1-A1-HF"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.13,
+    "time": 7800,
+    "words": 26
+  },
+  "slug": "Linie1A1/Linie1-A1-HF",
+  "path": "blog/Linie1A1/Linie1-A1-HF",
+  "filePath": "blog/Linie1A1/Linie1-A1-HF.mdx",
+  "toc": [
+    {
+      "value": "Lösung",
+      "url": "#lösung-152",
+      "depth": 2
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Haltestelle F - TESTTRAINING",
+    "datePublished": "2023-10-03T00:00:00.000Z",
+    "dateModified": "2023-10-03T00:00:00.000Z",
+    "description": "HALTESTELLE F: Berufe | Diktat | Spielen und wiederholen / TESTTRAINING: Lesen | Sprechen",
+    "image": "/static/images/Books/Linie1-A1/Haltestelle.jpg",
+    "url": "https://nextpress.vercel.app/blog/Linie1A1/Linie1-A1-HF"
+  }
+}

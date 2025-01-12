@@ -1,17 +1,16 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'NextPress Starter Blog',
-  author: 'Samyar Modabber',
-  headerTitle: 'NextPress Website',
-  description:
-    'A website created with Next.js and Tailwind.css based on the Markdown document and SEO friendly and responsive.',
+  title: 'SepDek',
+  author: 'Samyar',
+  headerTitle: 'SepDek',
+  description: 'Learn a Language by Video',
   language: 'en-us',
   dir: 'ltr',
   locale: 'en-US',
   theme: 'system', // system, dark or light
   email: 'address@yoursite.com',
-  siteUrl: 'https://nextpress.vercel.app',
-  siteRepo: 'https://github.com/samyarmodabber/nextpress',
+  siteUrl: 'https://sepdek.vercel.app',
+  siteRepo: 'https://github.com/samyarmodabber/sepdek',
   siteLogoSVG: '/static/images/site/logo.svg',
   siteLogoPNG: '/static/images/site/logo.png',
   socialBanner: '/static/images/twitter-card.png',
@@ -27,7 +26,7 @@ const siteMetadata = {
   blog: {
     MAX_DISPLAY: 3,
     POSTS_PER_PAGE: 20,
-    POST_CARD_TYPE: 'type2', // '' (for default) or type2
+    POST_CARD_TYPE: '', // '' (for default) or type2
     DEFAULT_IMAGE_POST: '/static/images/twitter-card.png',
   },
   landingPage: {

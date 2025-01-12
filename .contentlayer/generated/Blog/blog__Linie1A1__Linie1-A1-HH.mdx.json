@@ -1,0 +1,57 @@
+{
+  "title": "Haltestelle H",
+  "date": "2023-10-03T00:00:00.000Z",
+  "tags": [
+    "Linie1 A1"
+  ],
+  "categories": [],
+  "draft": false,
+  "summary": "HALTESTELLE H: Stationenlernen | TESTTRAINING: Lesen | Tipps für die Prüfung",
+  "images": [
+    "/static/images/Books/Linie1-A1/Haltestelle.jpg"
+  ],
+  "body": {
+    "raw": "\n## Transkript\n\n2.96\n\n<audio\n  controls\n  src=\"https://linie1.s3.eu-central-1.amazonaws.com/Audio/A1/Linie1-A1-4.96-(www.linie1.ir).mp3\"\n></audio>\n\nStation 5\n\n• Praxis Dr. Hauff, guten Tag?\n\n○ Guten Tag, mein Name ist Moll, ich brauche heute einen Termin, bitte.\n\n• Das geht leider nicht. Am Freitagvormittag um 11 Uhr ist ein Termin frei.\n\n○ Aber ich habe Schmerzen. Mein Knie tut sehr weh.\n\n• Gut, dann kommen Sie heute um 16 Uhr. Aber Sie müssen dann warten. oJa, kein Problem.\n\n• Waren Sie schon einmal hier in der Praxis?\n\n○ Ja, vor zwei Monaten.\n\n• Gut. Dann bis später.\n\n• Danke und auf Wiederhören.\n\n## Lösung\n\n5a (2) heute, (3) um 11 Uhr, (4) Mein Knie; (5) um 16 Uhr, (6) vor zwei Monaten, (7) später\n\n**Haltestelle H – Testtraining**\n\n1 1a, 2b, 3b, 4a, 5b\n\n2 D, E, B, C, A\n",
+    "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var f=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),x=(a,e)=>{for(var r in e)t(a,r,{get:e[r],enumerable:!0})},s=(a,e,r,l)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!w.call(a,i)&&i!==r&&t(a,i,{get:()=>e[i],enumerable:!(l=m(e,i))||l.enumerable});return a};var b=(a,e,r)=>(r=a!=null?p(g(a)):{},s(e||!a||!a.__esModule?t(r,\"default\",{value:a,enumerable:!0}):r,a)),M=a=>s(t({},\"__esModule\",{value:!0}),a);var c=f((A,h)=>{h.exports=_jsx_runtime});var k={};x(k,{default:()=>o,frontmatter:()=>T});var n=b(c()),T={title:\"Haltestelle H\",id:165,date:\"2023-10-03\",tags:[\"Linie1 A1\"],images:[\"/static/images/Books/Linie1-A1/Haltestelle.jpg\"],draft:!1,summary:\"HALTESTELLE H: Stationenlernen | TESTTRAINING: Lesen | Tipps f\\xFCr die Pr\\xFCfung\"};function d(a){let e={a:\"a\",h2:\"h2\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",...a.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.h2,{className:\"content-header\",id:\"transkript\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#transkript\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Transkript\"]}),(0,n.jsx)(e.p,{children:\"2.96\"}),(0,n.jsx)(\"audio\",{controls:!0,src:\"https://linie1.s3.eu-central-1.amazonaws.com/Audio/A1/Linie1-A1-4.96-(www.linie1.ir).mp3\"}),(0,n.jsx)(e.p,{children:\"Station 5\"}),(0,n.jsx)(e.p,{children:\"\\u2022 Praxis Dr. Hauff, guten Tag?\"}),(0,n.jsx)(e.p,{children:\"\\u25CB Guten Tag, mein Name ist Moll, ich brauche heute einen Termin, bitte.\"}),(0,n.jsx)(e.p,{children:\"\\u2022 Das geht leider nicht. Am Freitagvormittag um 11 Uhr ist ein Termin frei.\"}),(0,n.jsx)(e.p,{children:\"\\u25CB Aber ich habe Schmerzen. Mein Knie tut sehr weh.\"}),(0,n.jsx)(e.p,{children:\"\\u2022 Gut, dann kommen Sie heute um 16 Uhr. Aber Sie m\\xFCssen dann warten. oJa, kein Problem.\"}),(0,n.jsx)(e.p,{children:\"\\u2022 Waren Sie schon einmal hier in der Praxis?\"}),(0,n.jsx)(e.p,{children:\"\\u25CB Ja, vor zwei Monaten.\"}),(0,n.jsx)(e.p,{children:\"\\u2022 Gut. Dann bis sp\\xE4ter.\"}),(0,n.jsx)(e.p,{children:\"\\u2022 Danke und auf Wiederh\\xF6ren.\"}),(0,n.jsxs)(e.h2,{className:\"content-header\",id:\"l\\xF6sung\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#l\\xF6sung\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"L\\xF6sung\"]}),(0,n.jsx)(e.p,{children:\"5a (2) heute, (3) um 11 Uhr, (4) Mein Knie; (5) um 16 Uhr, (6) vor zwei Monaten, (7) sp\\xE4ter\"}),(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"Haltestelle H \\u2013 Testtraining\"})}),(0,n.jsx)(e.p,{children:\"1 1a, 2b, 3b, 4a, 5b\"}),(0,n.jsx)(e.p,{children:\"2 D, E, B, C, A\"})]})}function o(a={}){let{wrapper:e}=a.components||{};return e?(0,n.jsx)(e,{...a,children:(0,n.jsx)(d,{...a})}):d(a)}return M(k);})();\n;return Component;"
+  },
+  "_id": "blog/Linie1A1/Linie1-A1-HH.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/Linie1A1/Linie1-A1-HH.mdx",
+    "sourceFileName": "Linie1-A1-HH.mdx",
+    "sourceFileDir": "blog/Linie1A1",
+    "contentType": "mdx",
+    "flattenedPath": "blog/Linie1A1/Linie1-A1-HH"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.655,
+    "time": 39300,
+    "words": 131
+  },
+  "slug": "Linie1A1/Linie1-A1-HH",
+  "path": "blog/Linie1A1/Linie1-A1-HH",
+  "filePath": "blog/Linie1A1/Linie1-A1-HH.mdx",
+  "toc": [
+    {
+      "value": "Transkript",
+      "url": "#transkript-18",
+      "depth": 2
+    },
+    {
+      "value": "Lösung",
+      "url": "#lösung-154",
+      "depth": 2
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Haltestelle H",
+    "datePublished": "2023-10-03T00:00:00.000Z",
+    "dateModified": "2023-10-03T00:00:00.000Z",
+    "description": "HALTESTELLE H: Stationenlernen | TESTTRAINING: Lesen | Tipps für die Prüfung",
+    "image": "/static/images/Books/Linie1-A1/Haltestelle.jpg",
+    "url": "https://nextpress.vercel.app/blog/Linie1A1/Linie1-A1-HH"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Haltestelle A",
+  "date": "2023-10-03T00:00:00.000Z",
+  "tags": [
+    "Linie1 A1"
+  ],
+  "categories": [],
+  "draft": false,
+  "summary": "HALTESTELLE A: Sprechen, schreiben... | Spielen und wiederholen | Kennen Sie D-A-CH?",
+  "images": [
+    "/static/images/Books/Linie1-A1/Haltestelle.jpg"
+  ],
+  "body": {
+    "raw": "\n## Lösung\n\n1a 2\\. Ja, mein Skype-Name ist lukas-held76\\. 3\\. Ich heiße Ulrike. 4\\. Nein, ich spreche Französisch. 5\\. 23\\. 6\\. Dodel, Christine Dodel. 7\\. Meine Nummer ist 0823 – 5626123\\. 8\\. In Zürich. 9\\. Ich komme aus der Schweiz. 10\\. Nein, in Dortmund.\n\n**2**\n\n**erste Seite:**\n\nHerzlich willkommen!\n\nGuten Tag, Frau Güler.\n\nWie heißen Sie? Woher kommen Sie? Wo wohnen Sie? Wer ist das?\n\nIch komme aus …\n\nHallo Berenice. Hallo Katinka.\n\nIch wohne in …\n\nIch heiße …\n\nVorname, Familienname\n\naus Berlin, in München\n\ndu heißt, er/sie heißt, Sie heißen; du wohnst, er/sie wohnt, sie/Sie wohnen\n\nPostleitzahl, Ort\n\ndu bist, er/sie ist, Sie sind\n\nDeutschland, Österreich, Schweiz\n\nIch heiße Ulrike Throm. Ich komme aus Hamburg und wohne jetzt in Berlin.\n\nAuf Wiedersehen, Frau Dodel. Auf Wiedersehen, Herr Precht.\n\n** zweite Seite:**\n\nWie ist deine/Ihre Telefonnummer?\n\nSprichst du/Sprechen Sie Englisch?\n\nVerkäuferin, Chef, Lehrerin\n\nWie, Welche\n\n1\\. d), 2\\. b), 3\\. a), 4\\. c)\n\nDeutsch, Spanisch, Englisch\n\nFirma, Chef, Büro\n\n1\\. c), 2\\. d), 3\\. b), 4\\. a)\n\nHast du WhatsApp? Wie ist deine Handynummer?\n\ndu sprichst, er/sie spricht, wir sprechen, ihr sprecht, sie/Sie sprechen\n\nSie, bist, ihr, wir/Sie\n\nBist du, Kommt ihr, Spricht er …\n\ndu hast, er/sie hat, wie haben, ihr habt, sie/Sie haben\n\n3a 2\\. Hamburg, 3\\. München, 4\\. Köln, 5\\. Wien, 6\\. Bern, 7\\. Zürich, 8\\. Frankfurt, 9\\. Stuttgart, 10\\. Leipzig, 11\\. Dresden, 12\\. Bremen\n\n3c A Moin. Tschüs. B Grüß Gott. Servus. C Gruezi. Uf Wiedeluege.\n\n3d A – Vorwahl von Berlin / H – Feuerwehr / C – Vorwahl von Österreich / E – Notruf in Europa / D – Vorwahl von Deutschland / F – Vorwahl von Wien / G – Sprachen in der Schweiz / B – Vorwahl von Bern\n",
+    "code": "var Component=(()=>{var p=Object.create;var l=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var w=Object.getPrototypeOf,S=Object.prototype.hasOwnProperty;var g=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),f=(i,e)=>{for(var r in e)l(i,r,{get:e[r],enumerable:!0})},c=(i,e,r,t)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let h of m(e))!S.call(i,h)&&h!==r&&l(i,h,{get:()=>e[h],enumerable:!(t=u(e,h))||t.enumerable});return i};var k=(i,e,r)=>(r=i!=null?p(w(i)):{},c(e||!i||!i.__esModule?l(r,\"default\",{value:i,enumerable:!0}):r,i)),W=i=>c(l({},\"__esModule\",{value:!0}),i);var a=g((D,s)=>{s.exports=_jsx_runtime});var H={};f(H,{default:()=>o,frontmatter:()=>B});var n=k(a()),B={title:\"Haltestelle A\",id:25,date:\"2023-10-03\",tags:[\"Linie1 A1\"],images:[\"/static/images/Books/Linie1-A1/Haltestelle.jpg\"],draft:!1,summary:\"HALTESTELLE A: Sprechen, schreiben... | Spielen und wiederholen | Kennen Sie D-A-CH?\"};function d(i){let e={a:\"a\",h2:\"h2\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",...i.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.h2,{className:\"content-header\",id:\"l\\xF6sung\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#l\\xF6sung\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"L\\xF6sung\"]}),(0,n.jsx)(e.p,{children:\"1a 2. Ja, mein Skype-Name ist lukas-held76. 3. Ich hei\\xDFe Ulrike. 4. Nein, ich spreche Franz\\xF6sisch. 5. 23. 6. Dodel, Christine Dodel. 7. Meine Nummer ist 0823 \\u2013 5626123. 8. In Z\\xFCrich. 9. Ich komme aus der Schweiz. 10. Nein, in Dortmund.\"}),(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"2\"})}),(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"erste Seite:\"})}),(0,n.jsx)(e.p,{children:\"Herzlich willkommen!\"}),(0,n.jsx)(e.p,{children:\"Guten Tag, Frau G\\xFCler.\"}),(0,n.jsx)(e.p,{children:\"Wie hei\\xDFen Sie? Woher kommen Sie? Wo wohnen Sie? Wer ist das?\"}),(0,n.jsx)(e.p,{children:\"Ich komme aus \\u2026\"}),(0,n.jsx)(e.p,{children:\"Hallo Berenice. Hallo Katinka.\"}),(0,n.jsx)(e.p,{children:\"Ich wohne in \\u2026\"}),(0,n.jsx)(e.p,{children:\"Ich hei\\xDFe \\u2026\"}),(0,n.jsx)(e.p,{children:\"Vorname, Familienname\"}),(0,n.jsx)(e.p,{children:\"aus Berlin, in M\\xFCnchen\"}),(0,n.jsx)(e.p,{children:\"du hei\\xDFt, er/sie hei\\xDFt, Sie hei\\xDFen; du wohnst, er/sie wohnt, sie/Sie wohnen\"}),(0,n.jsx)(e.p,{children:\"Postleitzahl, Ort\"}),(0,n.jsx)(e.p,{children:\"du bist, er/sie ist, Sie sind\"}),(0,n.jsx)(e.p,{children:\"Deutschland, \\xD6sterreich, Schweiz\"}),(0,n.jsx)(e.p,{children:\"Ich hei\\xDFe Ulrike Throm. Ich komme aus Hamburg und wohne jetzt in Berlin.\"}),(0,n.jsx)(e.p,{children:\"Auf Wiedersehen, Frau Dodel. Auf Wiedersehen, Herr Precht.\"}),(0,n.jsx)(e.p,{children:\"**\\xA0zweite Seite:**\"}),(0,n.jsx)(e.p,{children:\"Wie ist deine/Ihre Telefonnummer?\"}),(0,n.jsx)(e.p,{children:\"Sprichst du/Sprechen Sie Englisch?\"}),(0,n.jsx)(e.p,{children:\"Verk\\xE4uferin, Chef, Lehrerin\"}),(0,n.jsx)(e.p,{children:\"Wie, Welche\"}),(0,n.jsx)(e.p,{children:\"1. d), 2. b), 3. a), 4. c)\"}),(0,n.jsx)(e.p,{children:\"Deutsch, Spanisch, Englisch\"}),(0,n.jsx)(e.p,{children:\"Firma, Chef, B\\xFCro\"}),(0,n.jsx)(e.p,{children:\"1. c), 2. d), 3. b), 4. a)\"}),(0,n.jsx)(e.p,{children:\"Hast du WhatsApp? Wie ist deine Handynummer?\"}),(0,n.jsx)(e.p,{children:\"du sprichst, er/sie spricht, wir sprechen, ihr sprecht, sie/Sie sprechen\"}),(0,n.jsx)(e.p,{children:\"Sie, bist, ihr, wir/Sie\"}),(0,n.jsx)(e.p,{children:\"Bist du, Kommt ihr, Spricht er \\u2026\"}),(0,n.jsx)(e.p,{children:\"du hast, er/sie hat, wie haben, ihr habt, sie/Sie haben\"}),(0,n.jsx)(e.p,{children:\"3a 2. Hamburg, 3. M\\xFCnchen, 4. K\\xF6ln, 5. Wien, 6. Bern, 7. Z\\xFCrich, 8. Frankfurt, 9. Stuttgart, 10. Leipzig, 11. Dresden, 12. Bremen\"}),(0,n.jsx)(e.p,{children:\"3c A Moin. Tsch\\xFCs. B Gr\\xFC\\xDF Gott. Servus. C Gruezi. Uf Wiedeluege.\"}),(0,n.jsx)(e.p,{children:\"3d A \\u2013 Vorwahl von Berlin / H \\u2013 Feuerwehr / C \\u2013 Vorwahl von \\xD6sterreich / E \\u2013 Notruf in Europa / D \\u2013 Vorwahl von Deutschland / F \\u2013 Vorwahl von Wien / G \\u2013 Sprachen in der Schweiz / B \\u2013 Vorwahl von Bern\"})]})}function o(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,{...i,children:(0,n.jsx)(d,{...i})}):d(i)}return W(H);})();\n;return Component;"
+  },
+  "_id": "blog/Linie1A1/Linie1-A1-HA.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/Linie1A1/Linie1-A1-HA.mdx",
+    "sourceFileName": "Linie1-A1-HA.mdx",
+    "sourceFileDir": "blog/Linie1A1",
+    "contentType": "mdx",
+    "flattenedPath": "blog/Linie1A1/Linie1-A1-HA"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "2 min read",
+    "minutes": 1.435,
+    "time": 86100,
+    "words": 287
+  },
+  "slug": "Linie1A1/Linie1-A1-HA",
+  "path": "blog/Linie1A1/Linie1-A1-HA",
+  "filePath": "blog/Linie1A1/Linie1-A1-HA.mdx",
+  "toc": [
+    {
+      "value": "Lösung",
+      "url": "#lösung-148",
+      "depth": 2
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Haltestelle A",
+    "datePublished": "2023-10-03T00:00:00.000Z",
+    "dateModified": "2023-10-03T00:00:00.000Z",
+    "description": "HALTESTELLE A: Sprechen, schreiben... | Spielen und wiederholen | Kennen Sie D-A-CH?",
+    "image": "/static/images/Books/Linie1-A1/Haltestelle.jpg",
+    "url": "https://nextpress.vercel.app/blog/Linie1A1/Linie1-A1-HA"
+  }
+}

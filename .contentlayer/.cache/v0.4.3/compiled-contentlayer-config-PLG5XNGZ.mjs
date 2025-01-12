@@ -28,18 +28,18 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
 var require_siteMetadata = __commonJS({
   "data/siteMetadata.js"(exports, module) {
     var siteMetadata2 = {
-      title: "NextPress Starter Blog",
-      author: "Samyar Modabber",
-      headerTitle: "NextPress Website",
-      description: "A website created with Next.js and Tailwind.css based on the Markdown document and SEO friendly and responsive.",
+      title: "SepDek",
+      author: "Samyar",
+      headerTitle: "SepDek",
+      description: "Learn a Language by Video",
       language: "en-us",
       dir: "ltr",
       locale: "en-US",
       theme: "system",
       // system, dark or light
       email: "address@yoursite.com",
-      siteUrl: "https://nextpress.vercel.app",
-      siteRepo: "https://github.com/samyarmodabber/nextpress",
+      siteUrl: "https://sepdek.vercel.app",
+      siteRepo: "https://github.com/samyarmodabber/sepdek",
       siteLogoSVG: "/static/images/site/logo.svg",
       siteLogoPNG: "/static/images/site/logo.png",
       socialBanner: "/static/images/twitter-card.png",
@@ -55,7 +55,7 @@ var require_siteMetadata = __commonJS({
       blog: {
         MAX_DISPLAY: 3,
         POSTS_PER_PAGE: 20,
-        POST_CARD_TYPE: "type2",
+        POST_CARD_TYPE: "",
         // '' (for default) or type2
         DEFAULT_IMAGE_POST: "/static/images/twitter-card.png"
       },
@@ -363,4 +363,4 @@ export {
   Pages,
   contentlayer_config_default as default
 };
-//# sourceMappingURL=compiled-contentlayer-config-JEVTYFPD.mjs.map
+//# sourceMappingURL=compiled-contentlayer-config-PLG5XNGZ.mjs.map
