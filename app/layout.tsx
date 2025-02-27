@@ -69,9 +69,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       suppressHydrationWarning
     >
       <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href={`${basePath}/static/favicons/apple-76x76-touch-icon.png`}
+        rel="icon"
+        type="image/png"
+        sizes="16x16"
+        href={`${basePath}/static/favicons/favicon-16x16.png`}
       />
       <link
         rel="icon"
@@ -82,15 +83,61 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <link
         rel="icon"
         type="image/png"
-        sizes="16x16"
-        href={`${basePath}/static/favicons/favicon-16x16.png`}
+        sizes="64x64"
+        href={`${basePath}/static/favicons/favicon-64x64.png`}
+      />
+      <link
+        rel="icon"
+        type="image/png"
+        sizes="96x96"
+        href={`${basePath}/static/favicons/favicon-96x96.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="57x57"
+        href={`${basePath}/static/favicons/apple-57x57-touch-icon.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="60x60"
+        href={`${basePath}/static/favicons/apple-60x60-touch-icon.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="72x72"
+        href={`${basePath}/static/favicons/apple-72x72-touch-icon.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="76x76"
+        href={`${basePath}/static/favicons/apple-76x76-touch-icon.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="114x114"
+        href={`${basePath}/static/favicons/apple-114x114-touch-icon.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="120x120"
+        href={`${basePath}/static/favicons/apple-120x120-touch-icon.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="144x144"
+        href={`${basePath}/static/favicons/apple-144x144-touch-icon.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="152x152"
+        href={`${basePath}/static/favicons/apple-152x152-touch-icon.png`}
+      />
+      <link
+        rel="apple-touch-icon"
+        sizes="180x180"
+        href={`${basePath}/static/favicons/apple-180x180-touch-icon.png`}
       />
       <link rel="manifest" href={`${basePath}/static/favicons/site.webmanifest`} />
-      <link
-        rel="mask-icon"
-        href={`${basePath}/static/favicons/safari-pinned-tab.svg`}
-        color="#5bbad5"
-      />
       <meta name="msapplication-TileColor" content="#000000" />
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff" />
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />

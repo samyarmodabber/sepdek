@@ -3,16 +3,14 @@
     "authors/default.mdx": {
       "document": {
         "name": "Admin",
-        "avatar": "/static/images/authors/nextpress.png",
+        "avatar": "/static/images/authors/admin.png",
         "occupation": "Teacher",
         "company": "OkSep",
         "coverImage": "https://picsum.photos/1200/300",
         "website": "https://sepdek.ir",
-        "instagram": "https://instagram.com/sepdek_ir",
-        "youtube": "https://www.youtube.com/sepdek_ir",
         "body": {
           "raw": "\nI try to teach languages in an easy way.\n",
-          "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of x(e))!y.call(t,o)&&o!==n&&a(t,o,{get:()=>e[o],enumerable:!(r=d(e,o))||r.enumerable});return t};var f=(t,e,n)=>(n=t!=null?h(g(t)):{},c(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),k=t=>c(a({},\"__esModule\",{value:!0}),t);var i=_((M,p)=>{p.exports=_jsx_runtime});var b={};w(b,{default:()=>u,frontmatter:()=>l});var s=f(i()),l={name:\"Admin\",avatar:\"/static/images/authors/nextpress.png\",coverImage:\"https://picsum.photos/1200/300\",occupation:\"Teacher\",company:\"OkSep\",website:\"https://sepdek.ir\",instagram:\"https://instagram.com/sepdek_ir\",youtube:\"https://www.youtube.com/sepdek_ir\"};function m(t){let e={p:\"p\",...t.components};return(0,s.jsx)(e.p,{children:\"I try to teach languages in an easy way.\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,{...t,children:(0,s.jsx)(m,{...t})}):m(t)}return k(b);})();\n;return Component;"
+          "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),_=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,c)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of x(e))!g.call(t,o)&&o!==n&&a(t,o,{get:()=>e[o],enumerable:!(c=d(e,o))||c.enumerable});return t};var l=(t,e,n)=>(n=t!=null?h(f(t)):{},s(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),j=t=>s(a({},\"__esModule\",{value:!0}),t);var p=y((v,i)=>{i.exports=_jsx_runtime});var M={};_(M,{default:()=>u,frontmatter:()=>w});var r=l(p()),w={name:\"Admin\",avatar:\"/static/images/authors/admin.png\",coverImage:\"https://picsum.photos/1200/300\",occupation:\"Teacher\",company:\"OkSep\",website:\"https://sepdek.ir\"};function m(t){let e={p:\"p\",...t.components};return(0,r.jsx)(e.p,{children:\"I try to teach languages in an easy way.\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(m,{...t})}):m(t)}return j(M);})();\n;return Component;"
         },
         "_id": "authors/default.mdx",
         "_raw": {
@@ -34,7 +32,7 @@
         "filePath": "authors/default.mdx",
         "toc": []
       },
-      "documentHash": "1740674554350",
+      "documentHash": "1740688552287",
       "hasWarnings": false,
       "documentTypeName": "Authors"
     },
@@ -922,177 +920,177 @@
         "toc": [
           {
             "value": "زمان گذشته Perfekt در زبان آلمانی",
-            "url": "#زمان-گذشته-perfekt-در-زبان-آلمانی",
+            "url": "#زمان-گذشته-perfekt-در-زبان-آلمانی-3",
             "depth": 1
           },
           {
             "value": "۱. کاربرد زمان Perfekt",
-            "url": "#۱-کاربرد-زمان-perfekt",
+            "url": "#۱-کاربرد-زمان-perfekt-3",
             "depth": 2
           },
           {
             "value": "۲. مثال‌ها",
-            "url": "#۲-مثالها",
+            "url": "#۲-مثالها-6",
             "depth": 2
           },
           {
             "value": "فعل با haben",
-            "url": "#فعل-با-haben",
+            "url": "#فعل-با-haben-3",
             "depth": 3
           },
           {
             "value": "فعل با sein",
-            "url": "#فعل-با-sein",
+            "url": "#فعل-با-sein-3",
             "depth": 3
           },
           {
             "value": "۳. استفاده از افعال کمکی (Modalverben)",
-            "url": "#۳-استفاده-از-افعال-کمکی-modalverben",
+            "url": "#۳-استفاده-از-افعال-کمکی-modalverben-3",
             "depth": 2
           },
           {
             "value": "نکات مهم:",
-            "url": "#نکات-مهم-2",
+            "url": "#نکات-مهم-9",
             "depth": 3
           },
           {
             "value": "زمان گذشته Präteritum در زبان آلمانی",
-            "url": "#زمان-گذشته-präteritum-در-زبان-آلمانی",
+            "url": "#زمان-گذشته-präteritum-در-زبان-آلمانی-3",
             "depth": 1
           },
           {
             "value": "۱. کاربرد زمان Präteritum",
-            "url": "#۱-کاربرد-زمان-präteritum",
+            "url": "#۱-کاربرد-زمان-präteritum-3",
             "depth": 2
           },
           {
             "value": "۲. مثال‌ها",
-            "url": "#۲-مثالها-1",
+            "url": "#۲-مثالها-7",
             "depth": 2
           },
           {
             "value": "۳. تفاوت بین Präteritum و Perfekt",
-            "url": "#۳-تفاوت-بین-präteritum-و-perfekt",
+            "url": "#۳-تفاوت-بین-präteritum-و-perfekt-3",
             "depth": 2
           },
           {
             "value": "نکته مهم",
-            "url": "#نکته-مهم",
+            "url": "#نکته-مهم-3",
             "depth": 3
           },
           {
             "value": "زمان گذشته‌ی دور (Plusquamperfekt) در زبان آلمانی",
-            "url": "#زمان-گذشتهی-دور-plusquamperfekt-در-زبان-آلمانی",
+            "url": "#زمان-گذشتهی-دور-plusquamperfekt-در-زبان-آلمانی-3",
             "depth": 1
           },
           {
             "value": "۱. کاربرد زمان Plusquamperfekt",
-            "url": "#۱-کاربرد-زمان-plusquamperfekt",
+            "url": "#۱-کاربرد-زمان-plusquamperfekt-3",
             "depth": 2
           },
           {
             "value": "۲. ساختار و استفاده در جملات پیچیده",
-            "url": "#۲-ساختار-و-استفاده-در-جملات-پیچیده",
+            "url": "#۲-ساختار-و-استفاده-در-جملات-پیچیده-3",
             "depth": 2
           },
           {
             "value": "۳. تفاوت Plusquamperfekt با دیگر زمان‌ها",
-            "url": "#۳-تفاوت-plusquamperfekt-با-دیگر-زمانها",
+            "url": "#۳-تفاوت-plusquamperfekt-با-دیگر-زمانها-3",
             "depth": 2
           },
           {
             "value": "جمع‌بندی",
-            "url": "#جمعبندی",
+            "url": "#جمعبندی-4",
             "depth": 3
           },
           {
             "value": "جملات موصولی (Relativsätze) و ضمایر موصولی (Relativpronomen) در زبان آلمانی",
-            "url": "#جملات-موصولی-relativsätze-و-ضمایر-موصولی-relativpronomen-در-زبان-آلمانی",
+            "url": "#جملات-موصولی-relativsätze-و-ضمایر-موصولی-relativpronomen-در-زبان-آلمانی-3",
             "depth": 1
           },
           {
             "value": "۱. تعریف و کاربرد",
-            "url": "#۱-تعریف-و-کاربرد-1",
+            "url": "#۱-تعریف-و-کاربرد-7",
             "depth": 2
           },
           {
             "value": "۲. جدول ضمایر موصولی",
-            "url": "#۲-جدول-ضمایر-موصولی",
+            "url": "#۲-جدول-ضمایر-موصولی-3",
             "depth": 2
           },
           {
             "value": "۳. نمونه‌های کاربردی",
-            "url": "#۳-نمونههای-کاربردی",
+            "url": "#۳-نمونههای-کاربردی-3",
             "depth": 2
           },
           {
             "value": "۱) حالت Nominativ (فاعل)",
-            "url": "#۱-حالت-nominativ-فاعل",
+            "url": "#۱-حالت-nominativ-فاعل-3",
             "depth": 3
           },
           {
             "value": "۲) حالت Akkusativ (مفعول مستقیم)",
-            "url": "#۲-حالت-akkusativ-مفعول-مستقیم",
+            "url": "#۲-حالت-akkusativ-مفعول-مستقیم-3",
             "depth": 3
           },
           {
             "value": "۳) حالت Dativ (مفعول غیرمستقیم)",
-            "url": "#۳-حالت-dativ-مفعول-غیرمستقیم",
+            "url": "#۳-حالت-dativ-مفعول-غیرمستقیم-3",
             "depth": 3
           },
           {
             "value": "۴) حالت Genitiv (ملکی)",
-            "url": "#۴-حالت-genitiv-ملکی",
+            "url": "#۴-حالت-genitiv-ملکی-3",
             "depth": 3
           },
           {
             "value": "۴. کاربرد ضمایر موصولی در حالت ملکی (Genitiv)",
-            "url": "#۴-کاربرد-ضمایر-موصولی-در-حالت-ملکی-genitiv",
+            "url": "#۴-کاربرد-ضمایر-موصولی-در-حالت-ملکی-genitiv-3",
             "depth": 2
           },
           {
             "value": "۵. خلاصه نکات مهم",
-            "url": "#۵-خلاصه-نکات-مهم-1",
+            "url": "#۵-خلاصه-نکات-مهم-5",
             "depth": 2
           },
           {
             "value": "حروف ربط زمانی (Temporale Konnektoren) در زبان آلمانی",
-            "url": "#حروف-ربط-زمانی-temporale-konnektoren-در-زبان-آلمانی",
+            "url": "#حروف-ربط-زمانی-temporale-konnektoren-در-زبان-آلمانی-3",
             "depth": 1
           },
           {
             "value": "۱. تعریف و کاربرد",
-            "url": "#۱-تعریف-و-کاربرد-2",
+            "url": "#۱-تعریف-و-کاربرد-8",
             "depth": 2
           },
           {
             "value": "۲. مثال‌های کاربردی",
-            "url": "#۲-مثالهای-کاربردی",
+            "url": "#۲-مثالهای-کاربردی-3",
             "depth": 2
           },
           {
             "value": "۱) هم‌زمانی (gleichzeitig) → solange",
-            "url": "#۱-همزمانی-gleichzeitig--solange",
+            "url": "#۱-همزمانی-gleichzeitig--solange-3",
             "depth": 3
           },
           {
             "value": "۲) تقدم (vorzeitig) → bevor",
-            "url": "#۲-تقدم-vorzeitig--bevor",
+            "url": "#۲-تقدم-vorzeitig--bevor-3",
             "depth": 3
           },
           {
             "value": "۳) تأخر (nachzeitig) → sobald",
-            "url": "#۳-تأخر-nachzeitig--sobald",
+            "url": "#۳-تأخر-nachzeitig--sobald-3",
             "depth": 3
           },
           {
             "value": "۴) تأخر (nachzeitig) → nachdem",
-            "url": "#۴-تأخر-nachzeitig--nachdem",
+            "url": "#۴-تأخر-nachzeitig--nachdem-3",
             "depth": 3
           },
           {
             "value": "۳. خلاصه نکات مهم",
-            "url": "#۳-خلاصه-نکات-مهم",
+            "url": "#۳-خلاصه-نکات-مهم-3",
             "depth": 2
           }
         ],
@@ -1106,7 +1104,7 @@
           "url": "https://sepdek.vercel.app/blog/fokus-b2/einheit01"
         }
       },
-      "documentHash": "1740678504318",
+      "documentHash": "1740688491411",
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
