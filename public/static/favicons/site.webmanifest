@@ -1,6 +1,6 @@
 {
-  "name": "NextPress",
-  "short_name": "NP",
+  "name": "SepDek",
+  "short_name": "SepDek",
   "icons": [
     { "src": "/android-chrome-96x96.png", "sizes": "96x96", "type": "image/png" },
     { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
