@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sam",
+    "name": "Admin",
     "avatar": "/static/images/authors/nextpress.png",
     "occupation": "Teacher",
     "company": "OkSep",
@@ -10,7 +10,7 @@
     "youtube": "https://www.youtube.com/sepdek_ir",
     "body": {
       "raw": "\nI try to teach languages in an easy way.\n",
-      "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of d(e))!y.call(t,o)&&o!==n&&a(t,o,{get:()=>e[o],enumerable:!(r=x(e,o))||r.enumerable});return t};var f=(t,e,n)=>(n=t!=null?h(g(t)):{},c(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),k=t=>c(a({},\"__esModule\",{value:!0}),t);var i=_((M,p)=>{p.exports=_jsx_runtime});var b={};w(b,{default:()=>u,frontmatter:()=>l});var s=f(i()),l={name:\"Sam\",avatar:\"/static/images/authors/nextpress.png\",coverImage:\"https://picsum.photos/1200/300\",occupation:\"Teacher\",company:\"OkSep\",website:\"https://sepdek.ir\",instagram:\"https://instagram.com/sepdek_ir\",youtube:\"https://www.youtube.com/sepdek_ir\"};function m(t){let e={p:\"p\",...t.components};return(0,s.jsx)(e.p,{children:\"I try to teach languages in an easy way.\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,{...t,children:(0,s.jsx)(m,{...t})}):m(t)}return k(b);})();\n;return Component;"
+      "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of x(e))!y.call(t,o)&&o!==n&&a(t,o,{get:()=>e[o],enumerable:!(r=d(e,o))||r.enumerable});return t};var f=(t,e,n)=>(n=t!=null?h(g(t)):{},c(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),k=t=>c(a({},\"__esModule\",{value:!0}),t);var i=_((M,p)=>{p.exports=_jsx_runtime});var b={};w(b,{default:()=>u,frontmatter:()=>l});var s=f(i()),l={name:\"Admin\",avatar:\"/static/images/authors/nextpress.png\",coverImage:\"https://picsum.photos/1200/300\",occupation:\"Teacher\",company:\"OkSep\",website:\"https://sepdek.ir\",instagram:\"https://instagram.com/sepdek_ir\",youtube:\"https://www.youtube.com/sepdek_ir\"};function m(t){let e={p:\"p\",...t.components};return(0,s.jsx)(e.p,{children:\"I try to teach languages in an easy way.\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,{...t,children:(0,s.jsx)(m,{...t})}):m(t)}return k(b);})();\n;return Component;"
     },
     "_id": "authors/default.mdx",
     "_raw": {

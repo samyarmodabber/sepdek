@@ -26,13 +26,13 @@ const siteMetadata = {
   blog: {
     MAX_DISPLAY: 3,
     POSTS_PER_PAGE: 20,
-    POST_CARD_TYPE: '', // '' (for default) or type2
+    POST_CARD_TYPE: 'type2', // '' (for default) or type2
     DEFAULT_IMAGE_POST: '/static/images/twitter-card.png',
   },
   landingPage: {
     showLatestPosts: true,
     showNewsletter: true, // also setup provider for newsletter
-    showCarousel: true,
+    showCarousel: false,
   },
   analytics: {
     // If you want to use an analytics provider you have to add it to the
@@ -67,7 +67,7 @@ const siteMetadata = {
     // content security policy in the `next.config.js` file.
     // Select a provider and use the environment variables associated to it
     // https://vercel.com/docs/environment-variables
-    provider: 'disqus', // supported providers: giscus, utterances, disqus, '' for unactive
+    provider: '', // supported providers: giscus, utterances, disqus, '' for unactive
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/

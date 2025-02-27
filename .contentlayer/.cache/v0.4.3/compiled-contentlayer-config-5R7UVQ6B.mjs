@@ -55,7 +55,7 @@ var require_siteMetadata = __commonJS({
       blog: {
         MAX_DISPLAY: 3,
         POSTS_PER_PAGE: 20,
-        POST_CARD_TYPE: "",
+        POST_CARD_TYPE: "type2",
         // '' (for default) or type2
         DEFAULT_IMAGE_POST: "/static/images/twitter-card.png"
       },
@@ -63,7 +63,7 @@ var require_siteMetadata = __commonJS({
         showLatestPosts: true,
         showNewsletter: true,
         // also setup provider for newsletter
-        showCarousel: true
+        showCarousel: false
       },
       analytics: {
         // If you want to use an analytics provider you have to add it to the
@@ -100,7 +100,7 @@ var require_siteMetadata = __commonJS({
         // content security policy in the `next.config.js` file.
         // Select a provider and use the environment variables associated to it
         // https://vercel.com/docs/environment-variables
-        provider: "disqus",
+        provider: "",
         // supported providers: giscus, utterances, disqus, '' for unactive
         giscusConfig: {
           // Visit the link below, and follow the steps in the 'configuration' section
@@ -363,4 +363,4 @@ export {
   Pages,
   contentlayer_config_default as default
 };
-//# sourceMappingURL=compiled-contentlayer-config-PLG5XNGZ.mjs.map
+//# sourceMappingURL=compiled-contentlayer-config-5R7UVQ6B.mjs.map

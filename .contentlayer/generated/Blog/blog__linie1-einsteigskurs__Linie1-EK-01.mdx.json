@@ -1,0 +1,62 @@
+{
+  "title": "Kapitel 1 - Teil 1",
+  "date": "2024-07-30T00:00:00.000Z",
+  "tags": [
+    "German",
+    "Language",
+    "Persian"
+  ],
+  "categories": [
+    "Einstiegskurs"
+  ],
+  "lastmod": "2024-07-31T00:00:00.000Z",
+  "draft": true,
+  "summary": "An overview of the new features on NextPress for some language wcich write from right ti left",
+  "images": [
+    "/static/images/twitter-card.png"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "bibliography": "references-data.bib",
+  "body": {
+    "raw": "\n## 1",
+    "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var x=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)s(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of u(e))!p.call(t,r)&&r!==n&&s(t,r,{get:()=>e[r],enumerable:!(i=g(e,r))||i.enumerable});return t};var v=(t,e,n)=>(n=t!=null?m(f(t)):{},o(e||!t||!t.__esModule?s(n,\"default\",{value:t,enumerable:!0}):n,t)),_=t=>o(s({},\"__esModule\",{value:!0}),t);var c=x((M,l)=>{l.exports=_jsx_runtime});var j={};w(j,{default:()=>d,frontmatter:()=>b});var a=v(c()),b={title:\"Kapitel 1 - Teil 1\",date:\"2024-07-30\",lastmod:\"2024-07-31\",authors:[\"default\"],tags:[\"German\",\"Language\",\"Persian\"],categories:[\"Einstiegskurs\"],images:[\"/static/images/twitter-card.png\"],summary:\"An overview of the new features on NextPress for some language wcich write from right ti left\",bibliography:\"references-data.bib\",layout:\"PostLayout\",draft:!0};function h(t){let e={a:\"a\",h2:\"h2\",path:\"path\",span:\"span\",svg:\"svg\",...t.components};return(0,a.jsxs)(e.h2,{className:\"content-header\",id:\"1\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#1\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"1\"]})}function d(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(h,{...t})}):h(t)}return _(j);})();\n;return Component;"
+  },
+  "_id": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
+    "sourceFileName": "Linie1-EK-01.mdx",
+    "sourceFileDir": "blog/linie1-einsteigskurs",
+    "contentType": "mdx",
+    "flattenedPath": "blog/linie1-einsteigskurs/Linie1-EK-01"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.01,
+    "time": 600,
+    "words": 2
+  },
+  "slug": "linie1-einsteigskurs/Linie1-EK-01",
+  "path": "blog/linie1-einsteigskurs/Linie1-EK-01",
+  "filePath": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
+  "toc": [
+    {
+      "value": "1",
+      "url": "#1-1",
+      "depth": 2
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Kapitel 1 - Teil 1",
+    "datePublished": "2024-07-30T00:00:00.000Z",
+    "dateModified": "2024-07-31T00:00:00.000Z",
+    "description": "An overview of the new features on NextPress for some language wcich write from right ti left",
+    "image": "/static/images/twitter-card.png",
+    "url": "https://sepdek.vercel.app/blog/linie1-einsteigskurs/Linie1-EK-01"
+  }
+}
