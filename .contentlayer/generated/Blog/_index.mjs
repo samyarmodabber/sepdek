@@ -14,7 +14,6 @@ import blog__fokusB2__einheit04Mdx from './blog__fokus-b2__einheit04.mdx.json' a
 import blog__fokusB2__einheit05Mdx from './blog__fokus-b2__einheit05.mdx.json' assert { type: 'json' }
 import blog__fokusB2__einheit08Mdx from './blog__fokus-b2__einheit08.mdx.json' assert { type: 'json' }
 import blog__fokusB2__einheit09Mdx from './blog__fokus-b2__einheit09.mdx.json' assert { type: 'json' }
-import blog__linie1Einsteigskurs__linie1Ek_01Mdx from './blog__linie1-einsteigskurs__Linie1-EK-01.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1HaMdx from './blog__linie1-a1__Linie1-A1-HA.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1HbMdx from './blog__linie1-a1__Linie1-A1-HB.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1HcMdx from './blog__linie1-a1__Linie1-A1-HC.mdx.json' assert { type: 'json' }
@@ -23,7 +22,6 @@ import blog__linie1A1__linie1A1HeMdx from './blog__linie1-a1__Linie1-A1-HE.mdx.j
 import blog__linie1A1__linie1A1HfMdx from './blog__linie1-a1__Linie1-A1-HF.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1HgMdx from './blog__linie1-a1__Linie1-A1-HG.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1HhMdx from './blog__linie1-a1__Linie1-A1-HH.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K1Mdx from './blog__linie1-a1__Linie1-A1-K1.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1K10Mdx from './blog__linie1-a1__Linie1-A1-K10.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1K11Mdx from './blog__linie1-a1__Linie1-A1-K11.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1K12Mdx from './blog__linie1-a1__Linie1-A1-K12.mdx.json' assert { type: 'json' }
@@ -31,13 +29,15 @@ import blog__linie1A1__linie1A1K13Mdx from './blog__linie1-a1__Linie1-A1-K13.mdx
 import blog__linie1A1__linie1A1K14Mdx from './blog__linie1-a1__Linie1-A1-K14.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1K15Mdx from './blog__linie1-a1__Linie1-A1-K15.mdx.json' assert { type: 'json' }
 import blog__linie1A1__linie1A1K16Mdx from './blog__linie1-a1__Linie1-A1-K16.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K2Mdx from './blog__linie1-a1__Linie1-A1-K2.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K3Mdx from './blog__linie1-a1__Linie1-A1-K3.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K4Mdx from './blog__linie1-a1__Linie1-A1-K4.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K5Mdx from './blog__linie1-a1__Linie1-A1-K5.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K6Mdx from './blog__linie1-a1__Linie1-A1-K6.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K7Mdx from './blog__linie1-a1__Linie1-A1-K7.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K8Mdx from './blog__linie1-a1__Linie1-A1-K8.mdx.json' assert { type: 'json' }
-import blog__linie1A1__linie1A1K9Mdx from './blog__linie1-a1__Linie1-A1-K9.mdx.json' assert { type: 'json' }
+import blog__linie1Einsteigskurs__linie1Ek_01Mdx from './blog__linie1-einsteigskurs__Linie1-EK-01.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K09Mdx from './blog__linie1-a1__Linie1-A1-K09.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K08Mdx from './blog__linie1-a1__Linie1-A1-K08.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K07Mdx from './blog__linie1-a1__Linie1-A1-K07.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K06Mdx from './blog__linie1-a1__Linie1-A1-K06.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K05Mdx from './blog__linie1-a1__Linie1-A1-K05.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K04Mdx from './blog__linie1-a1__Linie1-A1-K04.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K03Mdx from './blog__linie1-a1__Linie1-A1-K03.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K02Mdx from './blog__linie1-a1__Linie1-A1-K02.mdx.json' assert { type: 'json' }
+import blog__linie1A1__linie1A1K01Mdx from './blog__linie1-a1__Linie1-A1-K01.mdx.json' assert { type: 'json' }
 
-export const allBlogs = [blog__fokusB1Plus__01Mdx, blog__fokusB1Plus__02Mdx, blog__fokusB1Plus__03Mdx, blog__fokusB1Plus__04Mdx, blog__fokusB1Plus__05Mdx, blog__fokusB1Plus__06Mdx, blog__fokusB1Plus__07Mdx, blog__fokusB2__einheit01Mdx, blog__fokusB2__einheit02Mdx, blog__fokusB2__einheit03Mdx, blog__fokusB2__einheit04Mdx, blog__fokusB2__einheit05Mdx, blog__fokusB2__einheit08Mdx, blog__fokusB2__einheit09Mdx, blog__linie1Einsteigskurs__linie1Ek_01Mdx, blog__linie1A1__linie1A1HaMdx, blog__linie1A1__linie1A1HbMdx, blog__linie1A1__linie1A1HcMdx, blog__linie1A1__linie1A1HdMdx, blog__linie1A1__linie1A1HeMdx, blog__linie1A1__linie1A1HfMdx, blog__linie1A1__linie1A1HgMdx, blog__linie1A1__linie1A1HhMdx, blog__linie1A1__linie1A1K1Mdx, blog__linie1A1__linie1A1K10Mdx, blog__linie1A1__linie1A1K11Mdx, blog__linie1A1__linie1A1K12Mdx, blog__linie1A1__linie1A1K13Mdx, blog__linie1A1__linie1A1K14Mdx, blog__linie1A1__linie1A1K15Mdx, blog__linie1A1__linie1A1K16Mdx, blog__linie1A1__linie1A1K2Mdx, blog__linie1A1__linie1A1K3Mdx, blog__linie1A1__linie1A1K4Mdx, blog__linie1A1__linie1A1K5Mdx, blog__linie1A1__linie1A1K6Mdx, blog__linie1A1__linie1A1K7Mdx, blog__linie1A1__linie1A1K8Mdx, blog__linie1A1__linie1A1K9Mdx]
+export const allBlogs = [blog__fokusB1Plus__01Mdx, blog__fokusB1Plus__02Mdx, blog__fokusB1Plus__03Mdx, blog__fokusB1Plus__04Mdx, blog__fokusB1Plus__05Mdx, blog__fokusB1Plus__06Mdx, blog__fokusB1Plus__07Mdx, blog__fokusB2__einheit01Mdx, blog__fokusB2__einheit02Mdx, blog__fokusB2__einheit03Mdx, blog__fokusB2__einheit04Mdx, blog__fokusB2__einheit05Mdx, blog__fokusB2__einheit08Mdx, blog__fokusB2__einheit09Mdx, blog__linie1A1__linie1A1HaMdx, blog__linie1A1__linie1A1HbMdx, blog__linie1A1__linie1A1HcMdx, blog__linie1A1__linie1A1HdMdx, blog__linie1A1__linie1A1HeMdx, blog__linie1A1__linie1A1HfMdx, blog__linie1A1__linie1A1HgMdx, blog__linie1A1__linie1A1HhMdx, blog__linie1A1__linie1A1K10Mdx, blog__linie1A1__linie1A1K11Mdx, blog__linie1A1__linie1A1K12Mdx, blog__linie1A1__linie1A1K13Mdx, blog__linie1A1__linie1A1K14Mdx, blog__linie1A1__linie1A1K15Mdx, blog__linie1A1__linie1A1K16Mdx, blog__linie1Einsteigskurs__linie1Ek_01Mdx, blog__linie1A1__linie1A1K09Mdx, blog__linie1A1__linie1A1K08Mdx, blog__linie1A1__linie1A1K07Mdx, blog__linie1A1__linie1A1K06Mdx, blog__linie1A1__linie1A1K05Mdx, blog__linie1A1__linie1A1K04Mdx, blog__linie1A1__linie1A1K03Mdx, blog__linie1A1__linie1A1K02Mdx, blog__linie1A1__linie1A1K01Mdx]

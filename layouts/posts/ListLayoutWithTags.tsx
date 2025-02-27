@@ -36,6 +36,7 @@ export default function ListLayoutWithTags({
   const { blog } = siteMetadata
 
   const displayPosts = initialDisplayPosts.length > 0 ? initialDisplayPosts : posts
+  displayPosts.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
 
   return (
     <>
