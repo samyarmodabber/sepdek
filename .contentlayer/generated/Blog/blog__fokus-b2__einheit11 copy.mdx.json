@@ -1,0 +1,55 @@
+{
+  "title": "Einheit 10",
+  "date": "2025-02-01T00:00:00.000Z",
+  "tags": [
+    "German",
+    "Language",
+    "Persian"
+  ],
+  "categories": [
+    "Fokus Deutsch b2"
+  ],
+  "lastmod": "2024-07-31T00:00:00.000Z",
+  "draft": false,
+  "images": [
+    "/static/images/blog/books/Fokus_Deutsch_b2.png"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "dir": "rtl",
+  "bibliography": "references-data.bib",
+  "body": {
+    "raw": "",
+    "code": "var Component=(()=>{var l=Object.create;var o=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),h=(t,e)=>{for(var a in e)o(t,a,{get:e[a],enumerable:!0})},i=(t,e,a,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of f(e))!x.call(t,n)&&n!==a&&o(t,n,{get:()=>e[n],enumerable:!(s=d(e,n))||s.enumerable});return t};var p=(t,e,a)=>(a=t!=null?l(b(t)):{},i(e||!t||!t.__esModule?o(a,\"default\",{value:t,enumerable:!0}):a,t)),y=t=>i(o({},\"__esModule\",{value:!0}),t);var c=_((k,u)=>{u.exports=_jsx_runtime});var F={};h(F,{default:()=>m,frontmatter:()=>D});var r=p(c()),D={title:\"Einheit 10\",date:\"2025-02-01\",lastmod:\"2024-07-31\",authors:[\"default\"],tags:[\"German\",\"Language\",\"Persian\"],categories:[\"Fokus Deutsch b2\"],images:[\"/static/images/blog/books/Fokus_Deutsch_b2.png\"],bibliography:\"references-data.bib\",layout:\"PostLayout\",dir:\"rtl\",draft:!1};function g(t){return(0,r.jsx)(r.Fragment,{})}function m(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(g,{...t})}):g(t)}return y(F);})();\n;return Component;"
+  },
+  "_id": "blog/fokus-b2/einheit11 copy.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/fokus-b2/einheit11 copy.mdx",
+    "sourceFileName": "einheit11 copy.mdx",
+    "sourceFileDir": "blog/fokus-b2",
+    "contentType": "mdx",
+    "flattenedPath": "blog/fokus-b2/einheit11 copy"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "0 min read",
+    "minutes": 0,
+    "time": 0,
+    "words": 0
+  },
+  "slug": "fokus-b2/einheit11 copy",
+  "path": "blog/fokus-b2/einheit11 copy",
+  "filePath": "blog/fokus-b2/einheit11 copy.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Einheit 10",
+    "datePublished": "2025-02-01T00:00:00.000Z",
+    "dateModified": "2024-07-31T00:00:00.000Z",
+    "image": "/static/images/blog/books/Fokus_Deutsch_b2.png",
+    "url": "https://sepdek.vercel.app/blog/fokus-b2/einheit11 copy"
+  }
+}
