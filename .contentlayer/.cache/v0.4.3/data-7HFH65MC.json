@@ -1,5 +1,41 @@
 {
   "cacheItemsMap": {
+    "authors/default.mdx": {
+      "document": {
+        "name": "Admin",
+        "avatar": "/static/images/authors/admin.png",
+        "occupation": "Teacher",
+        "company": "OkSep",
+        "coverImage": "https://picsum.photos/1200/300",
+        "website": "https://sepdek.ir",
+        "body": {
+          "raw": "\nI try to teach languages in an easy way.\n",
+          "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),_=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,c)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of x(e))!g.call(t,o)&&o!==n&&a(t,o,{get:()=>e[o],enumerable:!(c=d(e,o))||c.enumerable});return t};var l=(t,e,n)=>(n=t!=null?h(f(t)):{},s(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),j=t=>s(a({},\"__esModule\",{value:!0}),t);var p=y((v,i)=>{i.exports=_jsx_runtime});var M={};_(M,{default:()=>u,frontmatter:()=>w});var r=l(p()),w={name:\"Admin\",avatar:\"/static/images/authors/admin.png\",coverImage:\"https://picsum.photos/1200/300\",occupation:\"Teacher\",company:\"OkSep\",website:\"https://sepdek.ir\"};function m(t){let e={p:\"p\",...t.components};return(0,r.jsx)(e.p,{children:\"I try to teach languages in an easy way.\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(m,{...t})}):m(t)}return j(M);})();\n;return Component;"
+        },
+        "_id": "authors/default.mdx",
+        "_raw": {
+          "sourceFilePath": "authors/default.mdx",
+          "sourceFileName": "default.mdx",
+          "sourceFileDir": "authors",
+          "contentType": "mdx",
+          "flattenedPath": "authors/default"
+        },
+        "type": "Authors",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.045,
+          "time": 2700,
+          "words": 9
+        },
+        "slug": "default",
+        "path": "authors/default",
+        "filePath": "authors/default.mdx",
+        "toc": []
+      },
+      "documentHash": "1740688552287",
+      "hasWarnings": false,
+      "documentTypeName": "Authors"
+    },
     "pages/about.mdx": {
       "document": {
         "title": "About",
@@ -32,12 +68,12 @@
         "toc": [
           {
             "value": "Introduction",
-            "url": "#introduction-6",
+            "url": "#introduction",
             "depth": 2
           },
           {
             "value": "Static Pages",
-            "url": "#static-pages-6",
+            "url": "#static-pages",
             "depth": 2
           }
         ]
@@ -93,32 +129,32 @@
         "toc": [
           {
             "value": "Hören",
-            "url": "#hören-54",
+            "url": "#hören",
             "depth": 2
           },
           {
             "value": "A 2a – Track 2",
-            "url": "#a-2a--track-2-7",
+            "url": "#a-2a--track-2",
             "depth": 3
           },
           {
             "value": "C 2a – Track 3",
-            "url": "#c-2a--track-3-7",
+            "url": "#c-2a--track-3",
             "depth": 3
           },
           {
             "value": "C 2c – Track 4",
-            "url": "#c-2c--track-4-7",
+            "url": "#c-2c--track-4",
             "depth": 3
           },
           {
             "value": "A 1c – Track 5",
-            "url": "#a-1c--track-5-7",
+            "url": "#a-1c--track-5",
             "depth": 3
           },
           {
             "value": "C 3 – Track 6",
-            "url": "#c-3--track-6-7",
+            "url": "#c-3--track-6",
             "depth": 3
           }
         ],
@@ -183,22 +219,22 @@
         "toc": [
           {
             "value": "Hören",
-            "url": "#hören-53",
+            "url": "#hören-5",
             "depth": 2
           },
           {
             "value": "A 2a – Track 7",
-            "url": "#a-2a--track-7-7",
+            "url": "#a-2a--track-7",
             "depth": 3
           },
           {
             "value": "D 1a – Track 8",
-            "url": "#d-1a--track-8-7",
+            "url": "#d-1a--track-8",
             "depth": 3
           },
           {
             "value": "B 4a – Track 9",
-            "url": "#b-4a--track-9-7",
+            "url": "#b-4a--track-9",
             "depth": 3
           }
         ],
@@ -263,62 +299,62 @@
         "toc": [
           {
             "value": "Hören",
-            "url": "#hören-51",
+            "url": "#hören-4",
             "depth": 2
           },
           {
             "value": "A 3a – Track 10",
-            "url": "#a-3a--track-10-7",
+            "url": "#a-3a--track-10",
             "depth": 3
           },
           {
             "value": "B 1a – Track 11",
-            "url": "#b-1a--track-11-7",
+            "url": "#b-1a--track-11",
             "depth": 3
           },
           {
             "value": "C 1b – Track 12",
-            "url": "#c-1b--track-12-7",
+            "url": "#c-1b--track-12",
             "depth": 3
           },
           {
             "value": "C 2a – Track 13",
-            "url": "#c-2a--track-13-7",
+            "url": "#c-2a--track-13",
             "depth": 3
           },
           {
             "value": "A 1a – Track 14",
-            "url": "#a-1a--track-14-7",
+            "url": "#a-1a--track-14",
             "depth": 3
           },
           {
             "value": "A 2a – Track 15",
-            "url": "#a-2a--track-15-7",
+            "url": "#a-2a--track-15",
             "depth": 3
           },
           {
             "value": "B 1 – Track 16",
-            "url": "#b-1--track-16-7",
+            "url": "#b-1--track-16",
             "depth": 3
           },
           {
             "value": "D 2 – Track 17",
-            "url": "#d-2--track-17-7",
+            "url": "#d-2--track-17",
             "depth": 3
           },
           {
             "value": "1. Dialog",
-            "url": "#1-dialog-7",
+            "url": "#1-dialog",
             "depth": 4
           },
           {
             "value": "2. Dialog",
-            "url": "#2-dialog-7",
+            "url": "#2-dialog",
             "depth": 4
           },
           {
             "value": "3. Dialog",
-            "url": "#3-dialog-7",
+            "url": "#3-dialog",
             "depth": 4
           }
         ],
@@ -383,82 +419,82 @@
         "toc": [
           {
             "value": "Hören",
-            "url": "#hören-50",
+            "url": "#hören-1",
             "depth": 2
           },
           {
             "value": "A 1b – Track 18",
-            "url": "#a-1b--track-18-7",
+            "url": "#a-1b--track-18",
             "depth": 3
           },
           {
             "value": "DIALOG 1",
-            "url": "#dialog-1-7",
+            "url": "#dialog-1",
             "depth": 4
           },
           {
             "value": "DIALOG 2",
-            "url": "#dialog-2-7",
+            "url": "#dialog-2",
             "depth": 4
           },
           {
             "value": "DIALOG 3",
-            "url": "#dialog-3-7",
+            "url": "#dialog-3",
             "depth": 4
           },
           {
             "value": "DIALOG 4",
-            "url": "#dialog-4-7",
+            "url": "#dialog-4",
             "depth": 4
           },
           {
             "value": "DIALOG 5",
-            "url": "#dialog-5-7",
+            "url": "#dialog-5",
             "depth": 4
           },
           {
             "value": "DIALOG 6",
-            "url": "#dialog-6-7",
+            "url": "#dialog-6",
             "depth": 4
           },
           {
             "value": "A 2 – Track 19",
-            "url": "#a-2--track-19-7",
+            "url": "#a-2--track-19",
             "depth": 3
           },
           {
             "value": "B 2b – Track 20",
-            "url": "#b-2b--track-20-7",
+            "url": "#b-2b--track-20",
             "depth": 3
           },
           {
             "value": "D 2a – Track 21",
-            "url": "#d-2a--track-21-7",
+            "url": "#d-2a--track-21",
             "depth": 3
           },
           {
             "value": "2a 1",
-            "url": "#2a-1-7",
+            "url": "#2a-1",
             "depth": 4
           },
           {
             "value": "2a 2",
-            "url": "#2a-2-7",
+            "url": "#2a-2",
             "depth": 4
           },
           {
             "value": "2a 3",
-            "url": "#2a-3-7",
+            "url": "#2a-3",
             "depth": 4
           },
           {
             "value": "B 4b – Track 22",
-            "url": "#b-4b--track-22-7",
+            "url": "#b-4b--track-22",
             "depth": 3
           },
           {
             "value": "D 3a – Track 23",
-            "url": "#d-3a--track-23-7",
+            "url": "#d-3a--track-23",
             "depth": 3
           }
         ],
@@ -523,72 +559,72 @@
         "toc": [
           {
             "value": "Hören",
-            "url": "#hören-52",
+            "url": "#hören-2",
             "depth": 2
           },
           {
             "value": "A 1a – Track 24",
-            "url": "#a-1a--track-24-7",
+            "url": "#a-1a--track-24",
             "depth": 3
           },
           {
             "value": "B 1a – Track 25",
-            "url": "#b-1a--track-25-7",
+            "url": "#b-1a--track-25",
             "depth": 3
           },
           {
             "value": "B 1b – Track 26",
-            "url": "#b-1b--track-26-7",
+            "url": "#b-1b--track-26",
             "depth": 3
           },
           {
             "value": "STATION 1",
-            "url": "#station-1-7",
+            "url": "#station-1",
             "depth": 4
           },
           {
             "value": "STATION 2",
-            "url": "#station-2-7",
+            "url": "#station-2",
             "depth": 4
           },
           {
             "value": "STATION 3",
-            "url": "#station-3-7",
+            "url": "#station-3",
             "depth": 4
           },
           {
             "value": "STATION 4",
-            "url": "#station-4-7",
+            "url": "#station-4",
             "depth": 4
           },
           {
             "value": "STATION 5",
-            "url": "#station-5-7",
+            "url": "#station-5",
             "depth": 4
           },
           {
             "value": "STATION 6",
-            "url": "#station-6-7",
+            "url": "#station-6",
             "depth": 4
           },
           {
             "value": "STATION 7",
-            "url": "#station-7-7",
+            "url": "#station-7",
             "depth": 4
           },
           {
             "value": "STATION 8",
-            "url": "#station-8-7",
+            "url": "#station-8",
             "depth": 4
           },
           {
             "value": "C 3a – Track 27",
-            "url": "#c-3a--track-27-7",
+            "url": "#c-3a--track-27",
             "depth": 3
           },
           {
             "value": "C 4b – Track 28",
-            "url": "#c-4b--track-28-7",
+            "url": "#c-4b--track-28",
             "depth": 3
           }
         ],
@@ -653,87 +689,87 @@
         "toc": [
           {
             "value": "Hören",
-            "url": "#hören-55",
+            "url": "#hören-3",
             "depth": 2
           },
           {
             "value": "A 1b – Track 29",
-            "url": "#a-1b--track-29-7",
+            "url": "#a-1b--track-29",
             "depth": 3
           },
           {
             "value": "1b DIALOG 1",
-            "url": "#1b-dialog-1-7",
+            "url": "#1b-dialog-1",
             "depth": 4
           },
           {
             "value": "1b DIALOG 2",
-            "url": "#1b-dialog-2-7",
+            "url": "#1b-dialog-2",
             "depth": 4
           },
           {
             "value": "1b DIALOG 3",
-            "url": "#1b-dialog-3-7",
+            "url": "#1b-dialog-3",
             "depth": 4
           },
           {
             "value": "1b DIALOG 4",
-            "url": "#1b-dialog-4-7",
+            "url": "#1b-dialog-4",
             "depth": 4
           },
           {
             "value": "1b DIALOG 5",
-            "url": "#1b-dialog-5-7",
+            "url": "#1b-dialog-5",
             "depth": 4
           },
           {
             "value": "1b DIALOG 6",
-            "url": "#1b-dialog-6-7",
+            "url": "#1b-dialog-6",
             "depth": 4
           },
           {
             "value": "B 1a – Track 30",
-            "url": "#b-1a--track-30-7",
+            "url": "#b-1a--track-30",
             "depth": 3
           },
           {
             "value": "B 2b – Track 31",
-            "url": "#b-2b--track-31-7",
+            "url": "#b-2b--track-31",
             "depth": 3
           },
           {
             "value": "C 3a – Track 32",
-            "url": "#c-3a--track-32-7",
+            "url": "#c-3a--track-32",
             "depth": 3
           },
           {
             "value": "3a DIALOG 1",
-            "url": "#3a-dialog-1-7",
+            "url": "#3a-dialog-1",
             "depth": 4
           },
           {
             "value": "3a DIALOG 2",
-            "url": "#3a-dialog-2-7",
+            "url": "#3a-dialog-2",
             "depth": 4
           },
           {
             "value": "3a DIALOG 3",
-            "url": "#3a-dialog-3-7",
+            "url": "#3a-dialog-3",
             "depth": 4
           },
           {
             "value": "3a DIALOG 4",
-            "url": "#3a-dialog-4-7",
+            "url": "#3a-dialog-4",
             "depth": 4
           },
           {
             "value": "A 1a – Track 33",
-            "url": "#a-1a--track-33-7",
+            "url": "#a-1a--track-33",
             "depth": 3
           },
           {
             "value": "D 1 – Track 34",
-            "url": "#d-1--track-34-7",
+            "url": "#d-1--track-34",
             "depth": 3
           }
         ],
@@ -798,27 +834,27 @@
         "toc": [
           {
             "value": "Hören",
-            "url": "#hören-49",
+            "url": "#hören-6",
             "depth": 2
           },
           {
             "value": "A 2a – Track 35",
-            "url": "#a-2a--track-35-7",
+            "url": "#a-2a--track-35",
             "depth": 3
           },
           {
             "value": "C 1a – Track 36",
-            "url": "#c-1a--track-36-7",
+            "url": "#c-1a--track-36",
             "depth": 3
           },
           {
             "value": "C 1 – Track 37",
-            "url": "#c-1--track-37-7",
+            "url": "#c-1--track-37",
             "depth": 3
           },
           {
             "value": "D 3 – Track 38",
-            "url": "#d-3--track-38-7",
+            "url": "#d-3--track-38",
             "depth": 3
           }
         ],
@@ -884,177 +920,177 @@
         "toc": [
           {
             "value": "زمان گذشته Perfekt در زبان آلمانی",
-            "url": "#زمان-گذشته-perfekt-در-زبان-آلمانی-10",
+            "url": "#زمان-گذشته-perfekt-در-زبان-آلمانی",
             "depth": 1
           },
           {
             "value": "۱. کاربرد زمان Perfekt",
-            "url": "#۱-کاربرد-زمان-perfekt-10",
+            "url": "#۱-کاربرد-زمان-perfekt",
             "depth": 2
           },
           {
             "value": "۲. مثال‌ها",
-            "url": "#۲-مثالها-20",
+            "url": "#۲-مثالها",
             "depth": 2
           },
           {
             "value": "فعل با haben",
-            "url": "#فعل-با-haben-10",
+            "url": "#فعل-با-haben",
             "depth": 3
           },
           {
             "value": "فعل با sein",
-            "url": "#فعل-با-sein-10",
+            "url": "#فعل-با-sein",
             "depth": 3
           },
           {
             "value": "۳. استفاده از افعال کمکی (Modalverben)",
-            "url": "#۳-استفاده-از-افعال-کمکی-modalverben-10",
+            "url": "#۳-استفاده-از-افعال-کمکی-modalverben",
             "depth": 2
           },
           {
             "value": "نکات مهم:",
-            "url": "#نکات-مهم-52",
+            "url": "#نکات-مهم",
             "depth": 3
           },
           {
             "value": "زمان گذشته Präteritum در زبان آلمانی",
-            "url": "#زمان-گذشته-präteritum-در-زبان-آلمانی-10",
+            "url": "#زمان-گذشته-präteritum-در-زبان-آلمانی",
             "depth": 1
           },
           {
             "value": "۱. کاربرد زمان Präteritum",
-            "url": "#۱-کاربرد-زمان-präteritum-10",
+            "url": "#۱-کاربرد-زمان-präteritum",
             "depth": 2
           },
           {
             "value": "۲. مثال‌ها",
-            "url": "#۲-مثالها-21",
+            "url": "#۲-مثالها-1",
             "depth": 2
           },
           {
             "value": "۳. تفاوت بین Präteritum و Perfekt",
-            "url": "#۳-تفاوت-بین-präteritum-و-perfekt-10",
+            "url": "#۳-تفاوت-بین-präteritum-و-perfekt",
             "depth": 2
           },
           {
             "value": "نکته مهم",
-            "url": "#نکته-مهم-10",
+            "url": "#نکته-مهم",
             "depth": 3
           },
           {
             "value": "زمان گذشته‌ی دور (Plusquamperfekt) در زبان آلمانی",
-            "url": "#زمان-گذشتهی-دور-plusquamperfekt-در-زبان-آلمانی-10",
+            "url": "#زمان-گذشتهی-دور-plusquamperfekt-در-زبان-آلمانی",
             "depth": 1
           },
           {
             "value": "۱. کاربرد زمان Plusquamperfekt",
-            "url": "#۱-کاربرد-زمان-plusquamperfekt-10",
+            "url": "#۱-کاربرد-زمان-plusquamperfekt",
             "depth": 2
           },
           {
             "value": "۲. ساختار و استفاده در جملات پیچیده",
-            "url": "#۲-ساختار-و-استفاده-در-جملات-پیچیده-10",
+            "url": "#۲-ساختار-و-استفاده-در-جملات-پیچیده",
             "depth": 2
           },
           {
             "value": "۳. تفاوت Plusquamperfekt با دیگر زمان‌ها",
-            "url": "#۳-تفاوت-plusquamperfekt-با-دیگر-زمانها-10",
+            "url": "#۳-تفاوت-plusquamperfekt-با-دیگر-زمانها",
             "depth": 2
           },
           {
             "value": "جمع‌بندی",
-            "url": "#جمعبندی-18",
+            "url": "#جمعبندی",
             "depth": 3
           },
           {
             "value": "جملات موصولی (Relativsätze) و ضمایر موصولی (Relativpronomen) در زبان آلمانی",
-            "url": "#جملات-موصولی-relativsätze-و-ضمایر-موصولی-relativpronomen-در-زبان-آلمانی-10",
+            "url": "#جملات-موصولی-relativsätze-و-ضمایر-موصولی-relativpronomen-در-زبان-آلمانی",
             "depth": 1
           },
           {
             "value": "۱. تعریف و کاربرد",
-            "url": "#۱-تعریف-و-کاربرد-28",
+            "url": "#۱-تعریف-و-کاربرد-1",
             "depth": 2
           },
           {
             "value": "۲. جدول ضمایر موصولی",
-            "url": "#۲-جدول-ضمایر-موصولی-10",
+            "url": "#۲-جدول-ضمایر-موصولی",
             "depth": 2
           },
           {
             "value": "۳. نمونه‌های کاربردی",
-            "url": "#۳-نمونههای-کاربردی-10",
+            "url": "#۳-نمونههای-کاربردی",
             "depth": 2
           },
           {
             "value": "۱) حالت Nominativ (فاعل)",
-            "url": "#۱-حالت-nominativ-فاعل-10",
+            "url": "#۱-حالت-nominativ-فاعل",
             "depth": 3
           },
           {
             "value": "۲) حالت Akkusativ (مفعول مستقیم)",
-            "url": "#۲-حالت-akkusativ-مفعول-مستقیم-10",
+            "url": "#۲-حالت-akkusativ-مفعول-مستقیم",
             "depth": 3
           },
           {
             "value": "۳) حالت Dativ (مفعول غیرمستقیم)",
-            "url": "#۳-حالت-dativ-مفعول-غیرمستقیم-10",
+            "url": "#۳-حالت-dativ-مفعول-غیرمستقیم",
             "depth": 3
           },
           {
             "value": "۴) حالت Genitiv (ملکی)",
-            "url": "#۴-حالت-genitiv-ملکی-10",
+            "url": "#۴-حالت-genitiv-ملکی",
             "depth": 3
           },
           {
             "value": "۴. کاربرد ضمایر موصولی در حالت ملکی (Genitiv)",
-            "url": "#۴-کاربرد-ضمایر-موصولی-در-حالت-ملکی-genitiv-10",
+            "url": "#۴-کاربرد-ضمایر-موصولی-در-حالت-ملکی-genitiv",
             "depth": 2
           },
           {
             "value": "۵. خلاصه نکات مهم",
-            "url": "#۵-خلاصه-نکات-مهم-26",
+            "url": "#۵-خلاصه-نکات-مهم-1",
             "depth": 2
           },
           {
             "value": "حروف ربط زمانی (Temporale Konnektoren) در زبان آلمانی",
-            "url": "#حروف-ربط-زمانی-temporale-konnektoren-در-زبان-آلمانی-10",
+            "url": "#حروف-ربط-زمانی-temporale-konnektoren-در-زبان-آلمانی",
             "depth": 1
           },
           {
             "value": "۱. تعریف و کاربرد",
-            "url": "#۱-تعریف-و-کاربرد-29",
+            "url": "#۱-تعریف-و-کاربرد-2",
             "depth": 2
           },
           {
             "value": "۲. مثال‌های کاربردی",
-            "url": "#۲-مثالهای-کاربردی-10",
+            "url": "#۲-مثالهای-کاربردی",
             "depth": 2
           },
           {
             "value": "۱) هم‌زمانی (gleichzeitig) → solange",
-            "url": "#۱-همزمانی-gleichzeitig--solange-10",
+            "url": "#۱-همزمانی-gleichzeitig--solange",
             "depth": 3
           },
           {
             "value": "۲) تقدم (vorzeitig) → bevor",
-            "url": "#۲-تقدم-vorzeitig--bevor-10",
+            "url": "#۲-تقدم-vorzeitig--bevor",
             "depth": 3
           },
           {
             "value": "۳) تأخر (nachzeitig) → sobald",
-            "url": "#۳-تأخر-nachzeitig--sobald-10",
+            "url": "#۳-تأخر-nachzeitig--sobald",
             "depth": 3
           },
           {
             "value": "۴) تأخر (nachzeitig) → nachdem",
-            "url": "#۴-تأخر-nachzeitig--nachdem-10",
+            "url": "#۴-تأخر-nachzeitig--nachdem",
             "depth": 3
           },
           {
             "value": "۳. خلاصه نکات مهم",
-            "url": "#۳-خلاصه-نکات-مهم-10",
+            "url": "#۳-خلاصه-نکات-مهم",
             "depth": 2
           }
         ],
@@ -1120,127 +1156,127 @@
         "toc": [
           {
             "value": "Vorgangspassiv (Passiv mit „werden“)",
-            "url": "#vorgangspassiv-passiv-mit-werden-7",
+            "url": "#vorgangspassiv-passiv-mit-werden",
             "depth": 1
           },
           {
             "value": "مجهول فرآیندی در زبان آلمانی",
-            "url": "#مجهول-فرآیندی-در-زبان-آلمانی-7",
+            "url": "#مجهول-فرآیندی-در-زبان-آلمانی",
             "depth": 3
           },
           {
             "value": "۱. تعریف و کاربرد",
-            "url": "#۱-تعریف-و-کاربرد-27",
+            "url": "#۱-تعریف-و-کاربرد",
             "depth": 2
           },
           {
             "value": "۲. صرف افعال در مجهول فرآیندی",
-            "url": "#۲-صرف-افعال-در-مجهول-فرآیندی-7",
+            "url": "#۲-صرف-افعال-در-مجهول-فرآیندی",
             "depth": 2
           },
           {
             "value": "۱) زمان حال (Präsens)",
-            "url": "#۱-زمان-حال-präsens-7",
+            "url": "#۱-زمان-حال-präsens",
             "depth": 3
           },
           {
             "value": "۲) زمان گذشته ساده (Präteritum)",
-            "url": "#۲-زمان-گذشته-ساده-präteritum-7",
+            "url": "#۲-زمان-گذشته-ساده-präteritum",
             "depth": 3
           },
           {
             "value": "۳) زمان ماضی نقلی (Perfekt)",
-            "url": "#۳-زمان-ماضی-نقلی-perfekt-7",
+            "url": "#۳-زمان-ماضی-نقلی-perfekt",
             "depth": 3
           },
           {
             "value": "۴) زمان ماضی بعید (Plusquamperfekt)",
-            "url": "#۴-زمان-ماضی-بعید-plusquamperfekt-7",
+            "url": "#۴-زمان-ماضی-بعید-plusquamperfekt",
             "depth": 3
           },
           {
             "value": "۵) زمان آینده (Futur I)",
-            "url": "#۵-زمان-آینده-futur-i-7",
+            "url": "#۵-زمان-آینده-futur-i",
             "depth": 3
           },
           {
             "value": "۳. مجهول همراه با فعل کمکی (Modalverb)",
-            "url": "#۳-مجهول-همراه-با-فعل-کمکی-modalverb-7",
+            "url": "#۳-مجهول-همراه-با-فعل-کمکی-modalverb",
             "depth": 2
           },
           {
             "value": "۱) زمان حال با فعل کمکی",
-            "url": "#۱-زمان-حال-با-فعل-کمکی-7",
+            "url": "#۱-زمان-حال-با-فعل-کمکی",
             "depth": 3
           },
           {
             "value": "۲) زمان گذشته با فعل کمکی",
-            "url": "#۲-زمان-گذشته-با-فعل-کمکی-7",
+            "url": "#۲-زمان-گذشته-با-فعل-کمکی",
             "depth": 3
           },
           {
             "value": "۴. استفاده از „von + Dativ“ برای اشاره به فاعل در جمله مجهول",
-            "url": "#۴-استفاده-از-von--dativ-برای-اشاره-به-فاعل-در-جمله-مجهول-7",
+            "url": "#۴-استفاده-از-von--dativ-برای-اشاره-به-فاعل-در-جمله-مجهول",
             "depth": 2
           },
           {
             "value": "۵. خلاصه نکات مهم",
-            "url": "#۵-خلاصه-نکات-مهم-24",
+            "url": "#۵-خلاصه-نکات-مهم",
             "depth": 2
           },
           {
             "value": "\"zu + Infinitiv\" در زبان آلمانی",
-            "url": "#zu--infinitiv-در-زبان-آلمانی-7",
+            "url": "#zu--infinitiv-در-زبان-آلمانی",
             "depth": 1
           },
           {
             "value": "۱. موارد استفاده از \"zu + Infinitiv\"",
-            "url": "#۱-موارد-استفاده-از-zu--infinitiv-7",
+            "url": "#۱-موارد-استفاده-از-zu--infinitiv",
             "depth": 2
           },
           {
             "value": "۱) بعد از برخی افعال خاص",
-            "url": "#۱-بعد-از-برخی-افعال-خاص-7",
+            "url": "#۱-بعد-از-برخی-افعال-خاص",
             "depth": 3
           },
           {
             "value": "۲) بعد از ترکیب اسم + haben",
-            "url": "#۲-بعد-از-ترکیب-اسم--haben-7",
+            "url": "#۲-بعد-از-ترکیب-اسم--haben",
             "depth": 3
           },
           {
             "value": "۳) بعد از عبارت‌های \"Es ist + Adjektiv\"",
-            "url": "#۳-بعد-از-عبارتهای-es-ist--adjektiv-7",
+            "url": "#۳-بعد-از-عبارتهای-es-ist--adjektiv",
             "depth": 3
           },
           {
             "value": "۴) بعد از عبارت‌های \"Es macht + Nomen\"",
-            "url": "#۴-بعد-از-عبارتهای-es-macht--nomen-7",
+            "url": "#۴-بعد-از-عبارتهای-es-macht--nomen",
             "depth": 3
           },
           {
             "value": "۲. تبدیل جملات \"zu + Infinitiv\" به جمله با \"dass\"",
-            "url": "#۲-تبدیل-جملات-zu--infinitiv-به-جمله-با-dass-7",
+            "url": "#۲-تبدیل-جملات-zu--infinitiv-به-جمله-با-dass",
             "depth": 2
           },
           {
             "value": "۳. هم‌زمانی یا ترتیب دو عمل در جمله",
-            "url": "#۳-همزمانی-یا-ترتیب-دو-عمل-در-جمله-7",
+            "url": "#۳-همزمانی-یا-ترتیب-دو-عمل-در-جمله",
             "depth": 2
           },
           {
             "value": "۱) اگر هر دو عمل هم‌زمان اتفاق بیفتند",
-            "url": "#۱-اگر-هر-دو-عمل-همزمان-اتفاق-بیفتند-7",
+            "url": "#۱-اگر-هر-دو-عمل-همزمان-اتفاق-بیفتند",
             "depth": 3
           },
           {
             "value": "۲) اگر عمل در مصدر قبل از جمله اصلی اتفاق افتاده باشد",
-            "url": "#۲-اگر-عمل-در-مصدر-قبل-از-جمله-اصلی-اتفاق-افتاده-باشد-7",
+            "url": "#۲-اگر-عمل-در-مصدر-قبل-از-جمله-اصلی-اتفاق-افتاده-باشد",
             "depth": 3
           },
           {
             "value": "خلاصه نکات مهم",
-            "url": "#خلاصه-نکات-مهم-7",
+            "url": "#خلاصه-نکات-مهم",
             "depth": 2
           }
         ],
@@ -1306,97 +1342,97 @@
         "toc": [
           {
             "value": "افعال با حروف اضافه ثابت و ضمایر پرسشی برای این افعال در آلمانی",
-            "url": "#افعال-با-حروف-اضافه-ثابت-و-ضمایر-پرسشی-برای-این-افعال-در-آلمانی-7",
+            "url": "#افعال-با-حروف-اضافه-ثابت-و-ضمایر-پرسشی-برای-این-افعال-در-آلمانی",
             "depth": 1
           },
           {
             "value": "۱. افعالی که با حروف اضافه ثابت می‌آیند",
-            "url": "#۱-افعالی-که-با-حروف-اضافه-ثابت-میآیند-7",
+            "url": "#۱-افعالی-که-با-حروف-اضافه-ثابت-میآیند",
             "depth": 2
           },
           {
             "value": "۲. سوال پرسیدن درباره‌ی اشخاص",
-            "url": "#۲-سوال-پرسیدن-دربارهی-اشخاص-7",
+            "url": "#۲-سوال-پرسیدن-دربارهی-اشخاص",
             "depth": 2
           },
           {
             "value": "۳. سوال پرسیدن درباره‌ی اشیا و مفاهیم",
-            "url": "#۳-سوال-پرسیدن-دربارهی-اشیا-و-مفاهیم-7",
+            "url": "#۳-سوال-پرسیدن-دربارهی-اشیا-و-مفاهیم",
             "depth": 2
           },
           {
             "value": "۴. خلاصه نکات مهم",
-            "url": "#۴-خلاصه-نکات-مهم-7",
+            "url": "#۴-خلاصه-نکات-مهم",
             "depth": 2
           },
           {
             "value": "Pronominaladverbien (ضمیرهای قیدی در آلمانی)",
-            "url": "#pronominaladverbien-ضمیرهای-قیدی-در-آلمانی-7",
+            "url": "#pronominaladverbien-ضمیرهای-قیدی-در-آلمانی",
             "depth": 1
           },
           {
             "value": "۱. ساختار کلی Pronominaladverbien",
-            "url": "#۱-ساختار-کلی-pronominaladverbien-7",
+            "url": "#۱-ساختار-کلی-pronominaladverbien",
             "depth": 2
           },
           {
             "value": "۲. موارد استفاده از Pronominaladverbien",
-            "url": "#۲-موارد-استفاده-از-pronominaladverbien-7",
+            "url": "#۲-موارد-استفاده-از-pronominaladverbien",
             "depth": 2
           },
           {
             "value": "✅ زمانی که یک حرف اضافه همراه با یک فعل می‌آید",
-            "url": "#-زمانی-که-یک-حرف-اضافه-همراه-با-یک-فعل-میآید-7",
+            "url": "#-زمانی-که-یک-حرف-اضافه-همراه-با-یک-فعل-میآید",
             "depth": 3
           },
           {
             "value": "۳. ساخت Pronominaladverbien با حروف صدادار",
-            "url": "#۳-ساخت-pronominaladverbien-با-حروف-صدادار-7",
+            "url": "#۳-ساخت-pronominaladverbien-با-حروف-صدادار",
             "depth": 2
           },
           {
             "value": "۴. مثال‌های بیشتر همراه با ترجمه‌ی فارسی",
-            "url": "#۴-مثالهای-بیشتر-همراه-با-ترجمهی-فارسی-7",
+            "url": "#۴-مثالهای-بیشتر-همراه-با-ترجمهی-فارسی",
             "depth": 2
           },
           {
             "value": "۵. خلاصه نکات مهم",
-            "url": "#۵-خلاصه-نکات-مهم-25",
+            "url": "#۵-خلاصه-نکات-مهم-2",
             "depth": 2
           },
           {
             "value": "Partizipialattribute (صفت‌های مشتق‌شده از وجه وصفی)",
-            "url": "#partizipialattribute-صفتهای-مشتقشده-از-وجه-وصفی-7",
+            "url": "#partizipialattribute-صفتهای-مشتقشده-از-وجه-وصفی",
             "depth": 1
           },
           {
             "value": "ساختار (Bildung)",
-            "url": "#ساختار-bildung-7",
+            "url": "#ساختار-bildung",
             "depth": 2
           },
           {
             "value": "معنای Partizipialattribute",
-            "url": "#معنای-partizipialattribute-7",
+            "url": "#معنای-partizipialattribute",
             "depth": 2
           },
           {
             "value": "✅ Partizip I (وجه وصفی حال)",
-            "url": "#-partizip-i-وجه-وصفی-حال-7",
+            "url": "#-partizip-i-وجه-وصفی-حال",
             "depth": 3
           },
           {
             "value": "✅ Partizip II (وجه وصفی گذشته)",
-            "url": "#-partizip-ii-وجه-وصفی-گذشته-7",
+            "url": "#-partizip-ii-وجه-وصفی-گذشته",
             "depth": 3
           },
           {
             "value": "توسعه‌ی صفات وجه وصفی (Erweiterung von Partizipialattribute)",
-            "url": "#توسعهی-صفات-وجه-وصفی-erweiterung-von-partizipialattribute-7",
+            "url": "#توسعهی-صفات-وجه-وصفی-erweiterung-von-partizipialattribute",
             "depth": 2
           },
           {
             "value": "جمع‌بندی",
-            "url": "#جمعبندی-17",
+            "url": "#جمعبندی-1",
             "depth": 2
           }
         ],
@@ -1462,47 +1498,47 @@
         "toc": [
           {
             "value": "haben + zu + Infinitiv (بیان اجبار مانند müssen)",
-            "url": "#haben--zu--infinitiv-بیان-اجبار-مانند-müssen-7",
+            "url": "#haben--zu--infinitiv-بیان-اجبار-مانند-müssen",
             "depth": 1
           },
           {
             "value": "تعریف و کاربرد",
-            "url": "#تعریف-و-کاربرد-42",
+            "url": "#تعریف-و-کاربرد",
             "depth": 3
           },
           {
             "value": "مثال‌ها",
-            "url": "#مثالها-7",
+            "url": "#مثالها",
             "depth": 3
           },
           {
             "value": "نکات مهم",
-            "url": "#نکات-مهم-53",
+            "url": "#نکات-مهم-1",
             "depth": 3
           },
           {
             "value": "Das Verb lassen (فعل lassen در آلمانی)",
-            "url": "#das-verb-lassen-فعل-lassen-در-آلمانی-7",
+            "url": "#das-verb-lassen-فعل-lassen-در-آلمانی",
             "depth": 1
           },
           {
             "value": "تعریف و کاربرد",
-            "url": "#تعریف-و-کاربرد-43",
+            "url": "#تعریف-و-کاربرد-1",
             "depth": 3
           },
           {
             "value": "lassen بدون مصدر (Infinitiv)",
-            "url": "#lassen-بدون-مصدر-infinitiv-7",
+            "url": "#lassen-بدون-مصدر-infinitiv",
             "depth": 3
           },
           {
             "value": "زمان گذشته (Perfekt) از lassen",
-            "url": "#زمان-گذشته-perfekt-از-lassen-7",
+            "url": "#زمان-گذشته-perfekt-از-lassen",
             "depth": 3
           },
           {
             "value": "نکات مهم",
-            "url": "#نکات-مهم-54",
+            "url": "#نکات-مهم-2",
             "depth": 3
           }
         ],
@@ -1568,202 +1604,202 @@
         "toc": [
           {
             "value": "Modale Konnektoren (حروف ربط سببی-مودالی)",
-            "url": "#modale-konnektoren-حروف-ربط-سببی-مودالی-7",
+            "url": "#modale-konnektoren-حروف-ربط-سببی-مودالی",
             "depth": 1
           },
           {
             "value": "تعریف و کاربرد",
-            "url": "#تعریف-و-کاربرد-44",
+            "url": "#تعریف-و-کاربرد-2",
             "depth": 3
           },
           {
             "value": "کاربرد indem",
-            "url": "#کاربرد-indem-7",
+            "url": "#کاربرد-indem",
             "depth": 3
           },
           {
             "value": "کاربرد dadurch, dass",
-            "url": "#کاربرد-dadurch-dass-7",
+            "url": "#کاربرد-dadurch-dass",
             "depth": 3
           },
           {
             "value": "نکات مهم",
-            "url": "#نکات-مهم-55",
+            "url": "#نکات-مهم-3",
             "depth": 3
           },
           {
             "value": "Konjunktiv II: Bildung (ساختار کونژونکتیو II)",
-            "url": "#konjunktiv-ii-bildung-ساختار-کونژونکتیو-ii-7",
+            "url": "#konjunktiv-ii-bildung-ساختار-کونژونکتیو-ii",
             "depth": 1
           },
           {
             "value": "تعریف و کاربرد",
-            "url": "#تعریف-و-کاربرد-45",
+            "url": "#تعریف-و-کاربرد-3",
             "depth": 2
           },
           {
             "value": "صرف افعال در Konjunktiv II",
-            "url": "#صرف-افعال-در-konjunktiv-ii-7",
+            "url": "#صرف-افعال-در-konjunktiv-ii",
             "depth": 2
           },
           {
             "value": "کاربردهای Konjunktiv II",
-            "url": "#کاربردهای-konjunktiv-ii-7",
+            "url": "#کاربردهای-konjunktiv-ii",
             "depth": 2
           },
           {
             "value": "۱. بیان فرضیات و شرایط غیرواقعی",
-            "url": "#۱-بیان-فرضیات-و-شرایط-غیرواقعی-7",
+            "url": "#۱-بیان-فرضیات-و-شرایط-غیرواقعی",
             "depth": 3
           },
           {
             "value": "۲. بیان آرزوها و خواسته‌ها",
-            "url": "#۲-بیان-آرزوها-و-خواستهها-7",
+            "url": "#۲-بیان-آرزوها-و-خواستهها",
             "depth": 3
           },
           {
             "value": "۳. پیشنهاد مودبانه یا درخواست محترمانه",
-            "url": "#۳-پیشنهاد-مودبانه-یا-درخواست-محترمانه-7",
+            "url": "#۳-پیشنهاد-مودبانه-یا-درخواست-محترمانه",
             "depth": 3
           },
           {
             "value": "۴. جملات شرطی نوع دوم (unrealistische Bedingungssätze)",
-            "url": "#۴-جملات-شرطی-نوع-دوم-unrealistische-bedingungssätze-7",
+            "url": "#۴-جملات-شرطی-نوع-دوم-unrealistische-bedingungssätze",
             "depth": 3
           },
           {
             "value": "نکات مهم",
-            "url": "#نکات-مهم-56",
+            "url": "#نکات-مهم-4",
             "depth": 2
           },
           {
             "value": "Konjunktiv II der Gegenwart (وجه التزامی نوع دوم در زمان حال)",
-            "url": "#konjunktiv-ii-der-gegenwart-وجه-التزامی-نوع-دوم-در-زمان-حال-7",
+            "url": "#konjunktiv-ii-der-gegenwart-وجه-التزامی-نوع-دوم-در-زمان-حال",
             "depth": 1
           },
           {
             "value": "تعریف و ساختار",
-            "url": "#تعریف-و-ساختار-7",
+            "url": "#تعریف-و-ساختار",
             "depth": 2
           },
           {
             "value": "کاربردهای Konjunktiv II der Gegenwart",
-            "url": "#کاربردهای-konjunktiv-ii-der-gegenwart-7",
+            "url": "#کاربردهای-konjunktiv-ii-der-gegenwart",
             "depth": 2
           },
           {
             "value": "۱. شرایط غیرواقعی (Irreale Bedingungen)",
-            "url": "#۱-شرایط-غیرواقعی-irreale-bedingungen-7",
+            "url": "#۱-شرایط-غیرواقعی-irreale-bedingungen",
             "depth": 3
           },
           {
             "value": "۲. بیان آرزوها (Wünsche)",
-            "url": "#۲-بیان-آرزوها-wünsche-7",
+            "url": "#۲-بیان-آرزوها-wünsche",
             "depth": 3
           },
           {
             "value": "۳. جملات مقایسه‌ای غیرواقعی (Irreale Vergleichssätze)",
-            "url": "#۳-جملات-مقایسهای-غیرواقعی-irreale-vergleichssätze-14",
+            "url": "#۳-جملات-مقایسهای-غیرواقعی-irreale-vergleichssätze",
             "depth": 3
           },
           {
             "value": "۴. درخواست‌های مودبانه (Höfliche Bitten)",
-            "url": "#۴-درخواستهای-مودبانه-höfliche-bitten-7",
+            "url": "#۴-درخواستهای-مودبانه-höfliche-bitten",
             "depth": 3
           },
           {
             "value": "۵. توصیه‌ها (Ratschläge)",
-            "url": "#۵-توصیهها-ratschläge-7",
+            "url": "#۵-توصیهها-ratschläge",
             "depth": 3
           },
           {
             "value": "یادگیری نکات مهم",
-            "url": "#یادگیری-نکات-مهم-7",
+            "url": "#یادگیری-نکات-مهم",
             "depth": 2
           },
           {
             "value": "جملات نمونه دیگر",
-            "url": "#جملات-نمونه-دیگر-7",
+            "url": "#جملات-نمونه-دیگر",
             "depth": 2
           },
           {
             "value": "پیشنهاد دادن با \"können\"",
-            "url": "#پیشنهاد-دادن-با-können-7",
+            "url": "#پیشنهاد-دادن-با-können",
             "depth": 3
           },
           {
             "value": "Konjunktiv II der Vergangenheit (وجه التزامی نوع دوم در زمان گذشته)",
-            "url": "#konjunktiv-ii-der-vergangenheit-وجه-التزامی-نوع-دوم-در-زمان-گذشته-7",
+            "url": "#konjunktiv-ii-der-vergangenheit-وجه-التزامی-نوع-دوم-در-زمان-گذشته",
             "depth": 1
           },
           {
             "value": "تعریف و کاربرد",
-            "url": "#تعریف-و-کاربرد-46",
+            "url": "#تعریف-و-کاربرد-4",
             "depth": 2
           },
           {
             "value": "موارد استفاده Konjunktiv II der Vergangenheit",
-            "url": "#موارد-استفاده-konjunktiv-ii-der-vergangenheit-7",
+            "url": "#موارد-استفاده-konjunktiv-ii-der-vergangenheit",
             "depth": 3
           },
           {
             "value": "۱. شرایط غیرواقعی در گذشته (Irreale Bedingungen)",
-            "url": "#۱-شرایط-غیرواقعی-در-گذشته-irreale-bedingungen-7",
+            "url": "#۱-شرایط-غیرواقعی-در-گذشته-irreale-bedingungen",
             "depth": 3
           },
           {
             "value": "۲. بیان آرزوها در گذشته (Wünsche)",
-            "url": "#۲-بیان-آرزوها-در-گذشته-wünsche-7",
+            "url": "#۲-بیان-آرزوها-در-گذشته-wünsche",
             "depth": 3
           },
           {
             "value": "۳. جملات مقایسه‌ای غیرواقعی (Irreale Vergleichssätze)",
-            "url": "#۳-جملات-مقایسهای-غیرواقعی-irreale-vergleichssätze-15",
+            "url": "#۳-جملات-مقایسهای-غیرواقعی-irreale-vergleichssätze-1",
             "depth": 3
           },
           {
             "value": "۴. توصیه‌ها و انتقادات در گذشته (Ratschläge)",
-            "url": "#۴-توصیهها-و-انتقادات-در-گذشته-ratschläge-7",
+            "url": "#۴-توصیهها-و-انتقادات-در-گذشته-ratschläge",
             "depth": 3
           },
           {
             "value": "ساختار دستوری Konjunktiv II der Vergangenheit",
-            "url": "#ساختار-دستوری-konjunktiv-ii-der-vergangenheit-7",
+            "url": "#ساختار-دستوری-konjunktiv-ii-der-vergangenheit",
             "depth": 2
           },
           {
             "value": "۱. بدون فعل مدال (ohne Modalverb)",
-            "url": "#۱-بدون-فعل-مدال-ohne-modalverb-7",
+            "url": "#۱-بدون-فعل-مدال-ohne-modalverb",
             "depth": 3
           },
           {
             "value": "۲. با فعل مدال (mit Modalverb)",
-            "url": "#۲-با-فعل-مدال-mit-modalverb-7",
+            "url": "#۲-با-فعل-مدال-mit-modalverb",
             "depth": 3
           },
           {
             "value": "نکات مهم",
-            "url": "#نکات-مهم-57",
+            "url": "#نکات-مهم-5",
             "depth": 2
           },
           {
             "value": "Irrealer Vergleich mit \"als ob\"",
-            "url": "#irrealer-vergleich-mit-als-ob-7",
+            "url": "#irrealer-vergleich-mit-als-ob",
             "depth": 1
           },
           {
             "value": "تعریف و کاربرد",
-            "url": "#تعریف-و-کاربرد-47",
+            "url": "#تعریف-و-کاربرد-5",
             "depth": 2
           },
           {
             "value": "مثال:",
-            "url": "#مثال-7",
+            "url": "#مثال",
             "depth": 3
           },
           {
             "value": "نکات مهم",
-            "url": "#نکات-مهم-58",
+            "url": "#نکات-مهم-6",
             "depth": 2
           }
         ],
@@ -1829,67 +1865,67 @@
         "toc": [
           {
             "value": "گرامر brauchen + zu + Infinitiv در زبان آلمانی",
-            "url": "#گرامر-brauchen--zu--infinitiv-در-زبان-آلمانی-7",
+            "url": "#گرامر-brauchen--zu--infinitiv-در-زبان-آلمانی",
             "depth": 2
           },
           {
             "value": "۱. استفاده همراه با نفی",
-            "url": "#۱-استفاده-همراه-با-نفی-7",
+            "url": "#۱-استفاده-همراه-با-نفی",
             "depth": 4
           },
           {
             "value": "۲. استفاده همراه با محدودیت",
-            "url": "#۲-استفاده-همراه-با-محدودیت-7",
+            "url": "#۲-استفاده-همراه-با-محدودیت",
             "depth": 4
           },
           {
             "value": "۳. بدون نفی یا محدودیت",
-            "url": "#۳-بدون-نفی-یا-محدودیت-7",
+            "url": "#۳-بدون-نفی-یا-محدودیت",
             "depth": 4
           },
           {
             "value": "گرامر جملات موصولی با wer, wen, wem در زبان آلمانی",
-            "url": "#گرامر-جملات-موصولی-با-wer-wen-wem-در-زبان-آلمانی-7",
+            "url": "#گرامر-جملات-موصولی-با-wer-wen-wem-در-زبان-آلمانی",
             "depth": 2
           },
           {
             "value": "۱. Wer (فاعل - Nominativ)",
-            "url": "#۱-wer-فاعل---nominativ-7",
+            "url": "#۱-wer-فاعل---nominativ",
             "depth": 3
           },
           {
             "value": "۲. Wen (مفعول مستقیم - Akkusativ)",
-            "url": "#۲-wen-مفعول-مستقیم---akkusativ-7",
+            "url": "#۲-wen-مفعول-مستقیم---akkusativ",
             "depth": 3
           },
           {
             "value": "۳. Wem (مفعول غیرمستقیم - Dativ)",
-            "url": "#۳-wem-مفعول-غیرمستقیم---dativ-7",
+            "url": "#۳-wem-مفعول-غیرمستقیم---dativ",
             "depth": 3
           },
           {
             "value": "گرامر کلمه \"es\" در زبان آلمانی",
-            "url": "#گرامر-کلمه-es-در-زبان-آلمانی-7",
+            "url": "#گرامر-کلمه-es-در-زبان-آلمانی",
             "depth": 2
           },
           {
             "value": "۱. به عنوان ضمیر (Pronomen)",
-            "url": "#۱-به-عنوان-ضمیر-pronomen-7",
+            "url": "#۱-به-عنوان-ضمیر-pronomen",
             "depth": 3
           },
           {
             "value": "۲. به عنوان فاعل در عبارات ثابت و افعال غیرشخصی",
-            "url": "#۲-به-عنوان-فاعل-در-عبارات-ثابت-و-افعال-غیرشخصی-7",
+            "url": "#۲-به-عنوان-فاعل-در-عبارات-ثابت-و-افعال-غیرشخصی",
             "depth": 3
           },
           {
             "value": "۳. به عنوان Platzhalter (جایگزین) در جایگاه اول جمله",
-            "url": "#۳-به-عنوان-platzhalter-جایگزین-در-جایگاه-اول-جمله-7",
+            "url": "#۳-به-عنوان-platzhalter-جایگزین-در-جایگاه-اول-جمله",
             "depth": 3
           },
           {
             "value": "۴. به عنوان ارجاع به جمله‌ای بعدی (Verweis auf einen Nebensatz oder Infinitivsatz)",
-            "url": "#۴-به-عنوان-ارجاع-به-جملهای-بعدی-verweis-auf-einen-nebensatz-oder-infinitivsatz-7",
+            "url": "#۴-به-عنوان-ارجاع-به-جملهای-بعدی-verweis-auf-einen-nebensatz-oder-infinitivsatz",
             "depth": 3
           }
         ],
@@ -1955,62 +1991,62 @@
         "toc": [
           {
             "value": "حروف اضافه زمانی در زبان آلمانی (Temporale Präpositionen)",
-            "url": "#حروف-اضافه-زمانی-در-زبان-آلمانی-temporale-präpositionen-7",
+            "url": "#حروف-اضافه-زمانی-در-زبان-آلمانی-temporale-präpositionen",
             "depth": 2
           },
           {
             "value": "۱. ab + Dativ (از ...)",
-            "url": "#۱-ab--dativ-از--7",
+            "url": "#۱-ab--dativ-از-",
             "depth": 3
           },
           {
             "value": "۲. bei + Dativ (هنگامِ ...)",
-            "url": "#۲-bei--dativ-هنگامِ--7",
+            "url": "#۲-bei--dativ-هنگامِ-",
             "depth": 3
           },
           {
             "value": "۳. binnen + Genitiv / innerhalb + Genitiv (در عرضِ ...)",
-            "url": "#۳-binnen--genitiv--innerhalb--genitiv-در-عرضِ--7",
+            "url": "#۳-binnen--genitiv--innerhalb--genitiv-در-عرضِ-",
             "depth": 3
           },
           {
             "value": "۴. außerhalb + Genitiv (خارج از ...)",
-            "url": "#۴-außerhalb--genitiv-خارج-از--7",
+            "url": "#۴-außerhalb--genitiv-خارج-از-",
             "depth": 3
           },
           {
             "value": "۵. bis zu + Dativ (mit Artikel) (تا ...)",
-            "url": "#۵-bis-zu--dativ-mit-artikel-تا--7",
+            "url": "#۵-bis-zu--dativ-mit-artikel-تا-",
             "depth": 3
           },
           {
             "value": "۶. über + Akkusativ (nach dem Nomen) (در طولِ ...)",
-            "url": "#۶-über--akkusativ-nach-dem-nomen-در-طولِ--7",
+            "url": "#۶-über--akkusativ-nach-dem-nomen-در-طولِ-",
             "depth": 3
           },
           {
             "value": "ترتیب اجزای جمله در زبان آلمانی (TeKaMoLo)",
-            "url": "#ترتیب-اجزای-جمله-در-زبان-آلمانی-tekamolo-7",
+            "url": "#ترتیب-اجزای-جمله-در-زبان-آلمانی-tekamolo",
             "depth": 2
           },
           {
             "value": "۱. ترتیب کلی قیدها در جمله",
-            "url": "#۱-ترتیب-کلی-قیدها-در-جمله-7",
+            "url": "#۱-ترتیب-کلی-قیدها-در-جمله",
             "depth": 3
           },
           {
             "value": "۲. قید زمانی می‌تواند در ابتدای جمله بیاید",
-            "url": "#۲-قید-زمانی-میتواند-در-ابتدای-جمله-بیاید-7",
+            "url": "#۲-قید-زمانی-میتواند-در-ابتدای-جمله-بیاید",
             "depth": 3
           },
           {
             "value": "۳. اضافه شدن قید سببی (kausal)",
-            "url": "#۳-اضافه-شدن-قید-سببی-kausal-7",
+            "url": "#۳-اضافه-شدن-قید-سببی-kausal",
             "depth": 3
           },
           {
             "value": "۴. TeKaMoLo یک قانون قطعی نیست!",
-            "url": "#۴-tekamolo-یک-قانون-قطعی-نیست-7",
+            "url": "#۴-tekamolo-یک-قانون-قطعی-نیست",
             "depth": 3
           }
         ],
@@ -2025,6 +2061,73 @@
         }
       },
       "documentHash": "1740678495683",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/linie1-einsteigskurs/Linie1-EK-01.mdx": {
+      "document": {
+        "title": "Kapitel 1 - Teil 1",
+        "date": "2024-07-30T00:00:00.000Z",
+        "tags": [
+          "German",
+          "Language",
+          "Persian"
+        ],
+        "categories": [
+          "Einstiegskurs"
+        ],
+        "lastmod": "2024-07-31T00:00:00.000Z",
+        "draft": true,
+        "summary": "An overview of the new features on NextPress for some language wcich write from right ti left",
+        "images": [
+          "/static/images/twitter-card.png"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "bibliography": "references-data.bib",
+        "body": {
+          "raw": "\n## 1",
+          "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var x=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)s(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of u(e))!p.call(t,r)&&r!==n&&s(t,r,{get:()=>e[r],enumerable:!(i=g(e,r))||i.enumerable});return t};var v=(t,e,n)=>(n=t!=null?m(f(t)):{},o(e||!t||!t.__esModule?s(n,\"default\",{value:t,enumerable:!0}):n,t)),_=t=>o(s({},\"__esModule\",{value:!0}),t);var c=x((M,l)=>{l.exports=_jsx_runtime});var j={};w(j,{default:()=>d,frontmatter:()=>b});var a=v(c()),b={title:\"Kapitel 1 - Teil 1\",date:\"2024-07-30\",lastmod:\"2024-07-31\",authors:[\"default\"],tags:[\"German\",\"Language\",\"Persian\"],categories:[\"Einstiegskurs\"],images:[\"/static/images/twitter-card.png\"],summary:\"An overview of the new features on NextPress for some language wcich write from right ti left\",bibliography:\"references-data.bib\",layout:\"PostLayout\",draft:!0};function h(t){let e={a:\"a\",h2:\"h2\",path:\"path\",span:\"span\",svg:\"svg\",...t.components};return(0,a.jsxs)(e.h2,{className:\"content-header\",id:\"1\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#1\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"1\"]})}function d(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(h,{...t})}):h(t)}return _(j);})();\n;return Component;"
+        },
+        "_id": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
+          "sourceFileName": "Linie1-EK-01.mdx",
+          "sourceFileDir": "blog/linie1-einsteigskurs",
+          "contentType": "mdx",
+          "flattenedPath": "blog/linie1-einsteigskurs/Linie1-EK-01"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.01,
+          "time": 600,
+          "words": 2
+        },
+        "slug": "linie1-einsteigskurs/Linie1-EK-01",
+        "path": "blog/linie1-einsteigskurs/Linie1-EK-01",
+        "filePath": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
+        "toc": [
+          {
+            "value": "1",
+            "url": "#1",
+            "depth": 2
+          }
+        ],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Kapitel 1 - Teil 1",
+          "datePublished": "2024-07-30T00:00:00.000Z",
+          "dateModified": "2024-07-31T00:00:00.000Z",
+          "description": "An overview of the new features on NextPress for some language wcich write from right ti left",
+          "image": "/static/images/twitter-card.png",
+          "url": "https://sepdek.vercel.app/blog/linie1-einsteigskurs/Linie1-EK-01"
+        }
+      },
+      "documentHash": "1736644274935",
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
@@ -2068,7 +2171,7 @@
         "toc": [
           {
             "value": "Lösung",
-            "url": "#lösung-277",
+            "url": "#lösung-2",
             "depth": 2
           }
         ],
@@ -2127,17 +2230,17 @@
         "toc": [
           {
             "value": "Transkript",
-            "url": "#transkript-29",
+            "url": "#transkript-1",
             "depth": 2
           },
           {
             "value": "1.98 Aufgabe 1b",
-            "url": "#198-aufgabe-1b-7",
+            "url": "#198-aufgabe-1b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-276",
+            "url": "#lösung-3",
             "depth": 2
           }
         ],
@@ -2196,22 +2299,22 @@
         "toc": [
           {
             "value": "Transkript",
-            "url": "#transkript-28",
+            "url": "#transkript",
             "depth": 2
           },
           {
             "value": "2.46 Aufgabe 1",
-            "url": "#246-aufgabe-1-7",
+            "url": "#246-aufgabe-1",
             "depth": 3
           },
           {
             "value": "2.51 Aufgabe 2a",
-            "url": "#251-aufgabe-2a-7",
+            "url": "#251-aufgabe-2a",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-275",
+            "url": "#lösung-1",
             "depth": 2
           }
         ],
@@ -2270,7 +2373,7 @@
         "toc": [
           {
             "value": "Lösung",
-            "url": "#lösung-274",
+            "url": "#lösung",
             "depth": 2
           }
         ],
@@ -2329,7 +2432,7 @@
         "toc": [
           {
             "value": "Lösung",
-            "url": "#lösung-279",
+            "url": "#lösung-6",
             "depth": 2
           }
         ],
@@ -2388,7 +2491,7 @@
         "toc": [
           {
             "value": "Lösung",
-            "url": "#lösung-278",
+            "url": "#lösung-4",
             "depth": 2
           }
         ],
@@ -2447,22 +2550,22 @@
         "toc": [
           {
             "value": "Transkript",
-            "url": "#transkript-30",
+            "url": "#transkript-3",
             "depth": 2
           },
           {
             "value": "Aufgabe 1b",
-            "url": "#aufgabe-1b-30",
+            "url": "#aufgabe-1b",
             "depth": 3
           },
           {
             "value": "Aufgabe 1",
-            "url": "#aufgabe-1-7",
+            "url": "#aufgabe-1",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-280",
+            "url": "#lösung-9",
             "depth": 2
           }
         ],
@@ -2521,12 +2624,12 @@
         "toc": [
           {
             "value": "Transkript",
-            "url": "#transkript-31",
+            "url": "#transkript-2",
             "depth": 2
           },
           {
             "value": "Lösung",
-            "url": "#lösung-281",
+            "url": "#lösung-5",
             "depth": 2
           }
         ],
@@ -2585,132 +2688,132 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-122",
+            "url": "#kursbuch-2",
             "depth": 2
           },
           {
             "value": "Aufgabe 1b",
-            "url": "#aufgabe-1b-31",
+            "url": "#aufgabe-1b-1",
             "depth": 3
           },
           {
             "value": "Aufgabe 2a",
-            "url": "#aufgabe-2a-8",
+            "url": "#aufgabe-2a",
             "depth": 3
           },
           {
             "value": "Aufgabe 2b",
-            "url": "#aufgabe-2b-15",
+            "url": "#aufgabe-2b",
             "depth": 3
           },
           {
             "value": "Aufgabe 3a",
-            "url": "#aufgabe-3a-8",
+            "url": "#aufgabe-3a",
             "depth": 3
           },
           {
             "value": "Aufgabe 3e",
-            "url": "#aufgabe-3e-8",
+            "url": "#aufgabe-3e",
             "depth": 3
           },
           {
             "value": "Aufgabe 4b",
-            "url": "#aufgabe-4b-8",
+            "url": "#aufgabe-4b",
             "depth": 3
           },
           {
             "value": "Aufgabe 5a",
-            "url": "#aufgabe-5a-15",
+            "url": "#aufgabe-5a",
             "depth": 3
           },
           {
             "value": "Aufgabe 5b",
-            "url": "#aufgabe-5b-8",
+            "url": "#aufgabe-5b",
             "depth": 3
           },
           {
             "value": "Aufgabe 6a",
-            "url": "#aufgabe-6a-15",
+            "url": "#aufgabe-6a",
             "depth": 3
           },
           {
             "value": "Aufgabe 8a und b",
-            "url": "#aufgabe-8a-und-b-8",
+            "url": "#aufgabe-8a-und-b",
             "depth": 3
           },
           {
             "value": "Aufgabe 8c",
-            "url": "#aufgabe-8c-8",
+            "url": "#aufgabe-8c",
             "depth": 3
           },
           {
             "value": "Aufgabe 9d",
-            "url": "#aufgabe-9d-8",
+            "url": "#aufgabe-9d",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-282",
+            "url": "#lösung-12",
             "depth": 2
           },
           {
             "value": "Übungen",
-            "url": "#übungen-16",
+            "url": "#übungen-1",
             "depth": 2
           },
           {
             "value": "1.21 Übung 1",
-            "url": "#121-übung-1-8",
+            "url": "#121-übung-1",
             "depth": 3
           },
           {
             "value": "1.22 Übung 2a",
-            "url": "#122-übung-2a-8",
+            "url": "#122-übung-2a",
             "depth": 3
           },
           {
             "value": "1.23 Übung 3",
-            "url": "#123-übung-3-8",
+            "url": "#123-übung-3",
             "depth": 3
           },
           {
             "value": "1.24 Übung 4b",
-            "url": "#124-übung-4b-8",
+            "url": "#124-übung-4b",
             "depth": 3
           },
           {
             "value": "1.25 Übung 5a",
-            "url": "#125-übung-5a-8",
+            "url": "#125-übung-5a",
             "depth": 3
           },
           {
             "value": "1.26 Übung 5b",
-            "url": "#126-übung-5b-8",
+            "url": "#126-übung-5b",
             "depth": 3
           },
           {
             "value": "1.27 Übung 6a",
-            "url": "#127-übung-6a-8",
+            "url": "#127-übung-6a",
             "depth": 3
           },
           {
             "value": "1.28 Übung 6b",
-            "url": "#128-übung-6b-8",
+            "url": "#128-übung-6b",
             "depth": 3
           },
           {
             "value": "1.29 Übung 8c",
-            "url": "#129-übung-8c-8",
+            "url": "#129-übung-8c",
             "depth": 3
           },
           {
             "value": "1.30 Übung 8d",
-            "url": "#130-übung-8d-8",
+            "url": "#130-übung-8d",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-283",
+            "url": "#lösung-13",
             "depth": 2
           }
         ],
@@ -2769,102 +2872,102 @@
         "toc": [
           {
             "value": "Kursbuch:",
-            "url": "#kursbuch-123",
+            "url": "#kursbuch-3",
             "depth": 2
           },
           {
             "value": "1.31 Aufgabe 1a",
-            "url": "#131-aufgabe-1a-8",
+            "url": "#131-aufgabe-1a",
             "depth": 3
           },
           {
             "value": "1.32 Aufgabe 2b",
-            "url": "#132-aufgabe-2b-8",
+            "url": "#132-aufgabe-2b",
             "depth": 3
           },
           {
             "value": "1.34 Aufgabe 2c",
-            "url": "#134-aufgabe-2c-8",
+            "url": "#134-aufgabe-2c",
             "depth": 3
           },
           {
             "value": "1.35 Aufgabe 2d",
-            "url": "#135-aufgabe-2d-8",
+            "url": "#135-aufgabe-2d",
             "depth": 3
           },
           {
             "value": "1.36 Aufgabe 2e",
-            "url": "#136-aufgabe-2e-8",
+            "url": "#136-aufgabe-2e",
             "depth": 3
           },
           {
             "value": "1.37 Aufgabe 2f",
-            "url": "#137-aufgabe-2f-8",
+            "url": "#137-aufgabe-2f",
             "depth": 3
           },
           {
             "value": "1.38 Aufgabe 3b",
-            "url": "#138-aufgabe-3b-8",
+            "url": "#138-aufgabe-3b",
             "depth": 3
           },
           {
             "value": "1.41 Aufgabe 3d",
-            "url": "#141-aufgabe-3d-8",
+            "url": "#141-aufgabe-3d",
             "depth": 3
           },
           {
             "value": "1.42 Aufgabe 4a",
-            "url": "#142-aufgabe-4a-8",
+            "url": "#142-aufgabe-4a",
             "depth": 3
           },
           {
             "value": "1.45 Aufgabe 5b",
-            "url": "#145-aufgabe-5b-8",
+            "url": "#145-aufgabe-5b",
             "depth": 3
           },
           {
             "value": "Lösung:",
-            "url": "#lösung-284",
+            "url": "#lösung-14",
             "depth": 2
           },
           {
             "value": "Ünung:",
-            "url": "#ünung-47",
+            "url": "#ünung-1",
             "depth": 2
           },
           {
             "value": "1.46 Übung 2c",
-            "url": "#146-übung-2c-8",
+            "url": "#146-übung-2c",
             "depth": 3
           },
           {
             "value": "1.47 Übung 2d",
-            "url": "#147-übung-2d-8",
+            "url": "#147-übung-2d",
             "depth": 3
           },
           {
             "value": "1.48 Übung 3a 1",
-            "url": "#148-übung-3a-1-8",
+            "url": "#148-übung-3a-1",
             "depth": 3
           },
           {
             "value": "1.49 Übung 3b und c",
-            "url": "#149-übung-3b-und-c-8",
+            "url": "#149-übung-3b-und-c",
             "depth": 3
           },
           {
             "value": "1.50 Übung 3e",
-            "url": "#150-übung-3e-8",
+            "url": "#150-übung-3e",
             "depth": 3
           },
           {
             "value": "1.51 Übung 5c",
-            "url": "#151-übung-5c-8",
+            "url": "#151-übung-5c",
             "depth": 3
           },
           {
             "value": "Lösung:",
-            "url": "#lösung-285",
+            "url": "#lösung-15",
             "depth": 2
           }
         ],
@@ -2923,82 +3026,82 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-129",
+            "url": "#kursbuch",
             "depth": 2
           },
           {
             "value": "1.57 Aufgabe 1b",
-            "url": "#157-aufgabe-1b-8",
+            "url": "#157-aufgabe-1b",
             "depth": 3
           },
           {
             "value": "1.58 Aufgabe 1c",
-            "url": "#158-aufgabe-1c-8",
+            "url": "#158-aufgabe-1c",
             "depth": 3
           },
           {
             "value": "1.59 Aufgabe 4a und b",
-            "url": "#159-aufgabe-4a-und-b-8",
+            "url": "#159-aufgabe-4a-und-b",
             "depth": 3
           },
           {
             "value": "1.62 Aufgabe 5a",
-            "url": "#162-aufgabe-5a-8",
+            "url": "#162-aufgabe-5a",
             "depth": 3
           },
           {
             "value": "1.63 Aufgabe 5d",
-            "url": "#163-aufgabe-5d-8",
+            "url": "#163-aufgabe-5d",
             "depth": 3
           },
           {
             "value": "1.64 Aufgabe 6b",
-            "url": "#164-aufgabe-6b-8",
+            "url": "#164-aufgabe-6b",
             "depth": 3
           },
           {
             "value": "1.67 Aufgabe 7a und b",
-            "url": "#167-aufgabe-7a-und-b-8",
+            "url": "#167-aufgabe-7a-und-b",
             "depth": 3
           },
           {
             "value": "1.68 Aufgabe 8a",
-            "url": "#168-aufgabe-8a-8",
+            "url": "#168-aufgabe-8a",
             "depth": 3
           },
           {
             "value": "1.71 Aufgabe 9b",
-            "url": "#171-aufgabe-9b-8",
+            "url": "#171-aufgabe-9b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-293",
+            "url": "#lösung-7",
             "depth": 2
           },
           {
             "value": "Übungen",
-            "url": "#übungen-17",
+            "url": "#übungen",
             "depth": 2
           },
           {
             "value": "Übung 3",
-            "url": "#übung-3-8",
+            "url": "#übung-3",
             "depth": 3
           },
           {
             "value": "",
-            "url": "#-16",
+            "url": "#",
             "depth": 3
           },
           {
             "value": "",
-            "url": "#-17",
+            "url": "#-1",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-294",
+            "url": "#lösung-8",
             "depth": 2
           }
         ],
@@ -3057,97 +3160,97 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-128",
+            "url": "#kursbuch-1",
             "depth": 2
           },
           {
             "value": "Aufgabe 1a",
-            "url": "#aufgabe-1a-15",
+            "url": "#aufgabe-1a",
             "depth": 3
           },
           {
             "value": "1.79 Aufgabe 2a",
-            "url": "#179-aufgabe-2a-8",
+            "url": "#179-aufgabe-2a",
             "depth": 3
           },
           {
             "value": "1.81 Aufgabe 2b und c",
-            "url": "#181-aufgabe-2b-und-c-8",
+            "url": "#181-aufgabe-2b-und-c",
             "depth": 3
           },
           {
             "value": "1.83 Aufgabe 3a",
-            "url": "#183-aufgabe-3a-8",
+            "url": "#183-aufgabe-3a",
             "depth": 3
           },
           {
             "value": "1.84 Aufgabe 3b und c",
-            "url": "#184-aufgabe-3b-und-c-8",
+            "url": "#184-aufgabe-3b-und-c",
             "depth": 3
           },
           {
             "value": "1.85 Aufgabe 4a",
-            "url": "#185-aufgabe-4a-8",
+            "url": "#185-aufgabe-4a",
             "depth": 3
           },
           {
             "value": "1.86 Aufgabe 5c",
-            "url": "#186-aufgabe-5c-8",
+            "url": "#186-aufgabe-5c",
             "depth": 3
           },
           {
             "value": "1.87 Aufgabe 6",
-            "url": "#187-aufgabe-6-8",
+            "url": "#187-aufgabe-6",
             "depth": 3
           },
           {
             "value": "1.90 Aufgabe 7b",
-            "url": "#190-aufgabe-7b-8",
+            "url": "#190-aufgabe-7b",
             "depth": 3
           },
           {
             "value": "1.91 Aufgabe 7c",
-            "url": "#191-aufgabe-7c-8",
+            "url": "#191-aufgabe-7c",
             "depth": 3
           },
           {
             "value": "1.92 Aufgabe 8b",
-            "url": "#192-aufgabe-8b-8",
+            "url": "#192-aufgabe-8b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-291",
+            "url": "#lösung-10",
             "depth": 2
           },
           {
             "value": "Ünung",
-            "url": "#ünung-50",
+            "url": "#ünung",
             "depth": 2
           },
           {
             "value": "Übung 3b",
-            "url": "#übung-3b-8",
+            "url": "#übung-3b",
             "depth": 3
           },
           {
             "value": "1.94 Übung 3c",
-            "url": "#194-übung-3c-8",
+            "url": "#194-übung-3c",
             "depth": 3
           },
           {
             "value": "1.95 Übung 5",
-            "url": "#195-übung-5-8",
+            "url": "#195-übung-5",
             "depth": 3
           },
           {
             "value": "1.96 Übung 6c",
-            "url": "#196-übung-6c-8",
+            "url": "#196-übung-6c",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-292",
+            "url": "#lösung-11",
             "depth": 2
           }
         ],
@@ -3206,77 +3309,77 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-124",
+            "url": "#kursbuch-5",
             "depth": 2
           },
           {
             "value": "2.1 Aufgabe 1a",
-            "url": "#21-aufgabe-1a-9",
+            "url": "#21-aufgabe-1a",
             "depth": 3
           },
           {
             "value": "2.2 Aufgabe 1b",
-            "url": "#22-aufgabe-1b-16",
+            "url": "#22-aufgabe-1b",
             "depth": 3
           },
           {
             "value": "2.3 Aufgabe 2a",
-            "url": "#23-aufgabe-2a-9",
+            "url": "#23-aufgabe-2a",
             "depth": 3
           },
           {
             "value": "2.4 Aufgabe 2c",
-            "url": "#24-aufgabe-2c-9",
+            "url": "#24-aufgabe-2c",
             "depth": 3
           },
           {
             "value": "2.5 Aufgabe 2d",
-            "url": "#25-aufgabe-2d-9",
+            "url": "#25-aufgabe-2d",
             "depth": 3
           },
           {
             "value": "2.9 Aufgabe 3a",
-            "url": "#29-aufgabe-3a-9",
+            "url": "#29-aufgabe-3a",
             "depth": 3
           },
           {
             "value": "2.10 Aufgabe 5c",
-            "url": "#210-aufgabe-5c-16",
+            "url": "#210-aufgabe-5c",
             "depth": 3
           },
           {
             "value": "2.11 Aufgabe 6a",
-            "url": "#211-aufgabe-6a-9",
+            "url": "#211-aufgabe-6a",
             "depth": 3
           },
           {
             "value": "2.12 Aufgabe 6b und c",
-            "url": "#212-aufgabe-6b-und-c-9",
+            "url": "#212-aufgabe-6b-und-c",
             "depth": 3
           },
           {
             "value": "Ünungen",
-            "url": "#ünungen-59",
+            "url": "#ünungen-1",
             "depth": 2
           },
           {
             "value": "2.17 Übung 2a",
-            "url": "#217-übung-2a-9",
+            "url": "#217-übung-2a",
             "depth": 3
           },
           {
             "value": "2.18 Übung 2b",
-            "url": "#218-übung-2b-9",
+            "url": "#218-übung-2b",
             "depth": 3
           },
           {
             "value": "2.19 Übung 2d",
-            "url": "#219-übung-2d-9",
+            "url": "#219-übung-2d",
             "depth": 3
           },
           {
             "value": "2.20 Übung 6c",
-            "url": "#220-übung-6c-9",
+            "url": "#220-übung-6c",
             "depth": 3
           }
         ],
@@ -3335,102 +3438,102 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-125",
+            "url": "#kursbuch-4",
             "depth": 2
           },
           {
             "value": "2.23 Aufgabe 1b und c",
-            "url": "#223-aufgabe-1b-und-c-8",
+            "url": "#223-aufgabe-1b-und-c",
             "depth": 3
           },
           {
             "value": "2.24 Aufgabe 2a und b",
-            "url": "#224-aufgabe-2a-und-b-8",
+            "url": "#224-aufgabe-2a-und-b",
             "depth": 3
           },
           {
             "value": "2.25 Aufgabe 2c",
-            "url": "#225-aufgabe-2c-8",
+            "url": "#225-aufgabe-2c",
             "depth": 3
           },
           {
             "value": "2.27 Aufgabe 5a",
-            "url": "#227-aufgabe-5a-8",
+            "url": "#227-aufgabe-5a",
             "depth": 3
           },
           {
             "value": "2.30 Aufgabe 6a",
-            "url": "#230-aufgabe-6a-8",
+            "url": "#230-aufgabe-6a",
             "depth": 3
           },
           {
             "value": "2.31 Aufgabe 8a",
-            "url": "#231-aufgabe-8a-8",
+            "url": "#231-aufgabe-8a",
             "depth": 3
           },
           {
             "value": "2.32 Aufgabe 8b",
-            "url": "#232-aufgabe-8b-8",
+            "url": "#232-aufgabe-8b",
             "depth": 3
           },
           {
             "value": "2.33 Aufgabe 9a",
-            "url": "#233-aufgabe-9a-8",
+            "url": "#233-aufgabe-9a",
             "depth": 3
           },
           {
             "value": "2.34 Aufgabe 9b",
-            "url": "#234-aufgabe-9b-8",
+            "url": "#234-aufgabe-9b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-286",
+            "url": "#lösung-16",
             "depth": 2
           },
           {
             "value": "Ünungen",
-            "url": "#ünungen-60",
+            "url": "#ünungen",
             "depth": 2
           },
           {
             "value": "2.37 Übung 1b",
-            "url": "#237-übung-1b-8",
+            "url": "#237-übung-1b",
             "depth": 3
           },
           {
             "value": "2.38 Übung 2a",
-            "url": "#238-übung-2a-8",
+            "url": "#238-übung-2a",
             "depth": 3
           },
           {
             "value": "2.39 Übung 2b",
-            "url": "#239-übung-2b-8",
+            "url": "#239-übung-2b",
             "depth": 3
           },
           {
             "value": "2.40 Übung 3c",
-            "url": "#240-übung-3c-8",
+            "url": "#240-übung-3c",
             "depth": 3
           },
           {
             "value": "2.41 Übung 4c",
-            "url": "#241-übung-4c-8",
+            "url": "#241-übung-4c",
             "depth": 3
           },
           {
             "value": "2.42 Übung 6b",
-            "url": "#242-übung-6b-8",
+            "url": "#242-übung-6b",
             "depth": 3
           },
           {
             "value": "2.43 Übung 7a",
-            "url": "#243-übung-7a-8",
+            "url": "#243-übung-7a",
             "depth": 3
           },
           {
             "value": "2.44 Übung 8",
-            "url": "#244-übung-8-8",
+            "url": "#244-übung-8",
             "depth": 3
           }
         ],
@@ -3489,72 +3592,72 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-127",
+            "url": "#kursbuch-8",
             "depth": 2
           },
           {
             "value": "2.52 Aufgabe 1b",
-            "url": "#252-aufgabe-1b-8",
+            "url": "#252-aufgabe-1b",
             "depth": 3
           },
           {
             "value": "2.53 Aufgabe 1c",
-            "url": "#253-aufgabe-1c-8",
+            "url": "#253-aufgabe-1c",
             "depth": 3
           },
           {
             "value": "2.54 Aufgabe 3a",
-            "url": "#254-aufgabe-3a-8",
+            "url": "#254-aufgabe-3a",
             "depth": 3
           },
           {
             "value": "2.56 Aufgabe 4a",
-            "url": "#256-aufgabe-4a-8",
+            "url": "#256-aufgabe-4a",
             "depth": 3
           },
           {
             "value": "2.57 Aufgabe 5c",
-            "url": "#257-aufgabe-5c-8",
+            "url": "#257-aufgabe-5c",
             "depth": 3
           },
           {
             "value": "2.58 Aufgabe 7a",
-            "url": "#258-aufgabe-7a-8",
+            "url": "#258-aufgabe-7a",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-289",
+            "url": "#lösung-21",
             "depth": 2
           },
           {
             "value": "Ünung",
-            "url": "#ünung-49",
+            "url": "#ünung-3",
             "depth": 2
           },
           {
             "value": "2.62 Übung 3c",
-            "url": "#262-übung-3c-8",
+            "url": "#262-übung-3c",
             "depth": 3
           },
           {
             "value": "2.63 Übung 4a",
-            "url": "#263-übung-4a-8",
+            "url": "#263-übung-4a",
             "depth": 3
           },
           {
             "value": "2.64 Übung 4b",
-            "url": "#264-übung-4b-8",
+            "url": "#264-übung-4b",
             "depth": 3
           },
           {
             "value": "2.65 Übung 7b",
-            "url": "#265-übung-7b-8",
+            "url": "#265-übung-7b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-290",
+            "url": "#lösung-22",
             "depth": 2
           }
         ],
@@ -3613,67 +3716,67 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-133",
+            "url": "#kursbuch-10",
             "depth": 2
           },
           {
             "value": "2.67 Aufgabe 1b und c",
-            "url": "#267-aufgabe-1b-und-c-8",
+            "url": "#267-aufgabe-1b-und-c",
             "depth": 3
           },
           {
             "value": "2.68 Aufgabe 2b und c",
-            "url": "#268-aufgabe-2b-und-c-8",
+            "url": "#268-aufgabe-2b-und-c",
             "depth": 3
           },
           {
             "value": "2.69 Aufgabe 4a und b",
-            "url": "#269-aufgabe-4a-und-b-8",
+            "url": "#269-aufgabe-4a-und-b",
             "depth": 3
           },
           {
             "value": "2.70 Aufgabe 5a",
-            "url": "#270-aufgabe-5a-8",
+            "url": "#270-aufgabe-5a",
             "depth": 3
           },
           {
             "value": "2.71 Aufgabe 8b",
-            "url": "#271-aufgabe-8b-8",
+            "url": "#271-aufgabe-8b",
             "depth": 3
           },
           {
             "value": "2.72 Aufgabe 8d",
-            "url": "#272-aufgabe-8d-8",
+            "url": "#272-aufgabe-8d",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-301",
+            "url": "#lösung-25",
             "depth": 2
           },
           {
             "value": "Ünung",
-            "url": "#ünung-52",
+            "url": "#ünung-4",
             "depth": 2
           },
           {
             "value": "2.73 Übung 2a",
-            "url": "#273-übung-2a-8",
+            "url": "#273-übung-2a",
             "depth": 3
           },
           {
             "value": "2.74 Übung 3c",
-            "url": "#274-übung-3c-8",
+            "url": "#274-übung-3c",
             "depth": 3
           },
           {
             "value": "2.75 Übung 8b",
-            "url": "#275-übung-8b-8",
+            "url": "#275-übung-8b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-302",
+            "url": "#lösung-26",
             "depth": 2
           }
         ],
@@ -3732,62 +3835,62 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-126",
+            "url": "#kursbuch-13",
             "depth": 2
           },
           {
             "value": "Aufgabe 1b",
-            "url": "#aufgabe-1b-32",
+            "url": "#aufgabe-1b-3",
             "depth": 3
           },
           {
             "value": "1.6 Aufgabe 2c und 2d",
-            "url": "#16-aufgabe-2c-und-2d-8",
+            "url": "#16-aufgabe-2c-und-2d",
             "depth": 3
           },
           {
             "value": "Aufgabe 3d",
-            "url": "#aufgabe-3d-15",
+            "url": "#aufgabe-3d",
             "depth": 3
           },
           {
             "value": "1.9 Aufgabe 5a und 5b",
-            "url": "#19-aufgabe-5a-und-5b-8",
+            "url": "#19-aufgabe-5a-und-5b",
             "depth": 3
           },
           {
             "value": "1.10 Aufgabe 5d",
-            "url": "#110-aufgabe-5d-8",
+            "url": "#110-aufgabe-5d",
             "depth": 3
           },
           {
             "value": "1.11 Aufgabe 6d und 6e",
-            "url": "#111-aufgabe-6d-und-6e-8",
+            "url": "#111-aufgabe-6d-und-6e",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-287",
+            "url": "#lösung-31",
             "depth": 2
           },
           {
             "value": "Ünung",
-            "url": "#ünung-48",
+            "url": "#ünung-5",
             "depth": 2
           },
           {
             "value": "1.12 Übung 1c",
-            "url": "#112-übung-1c-8",
+            "url": "#112-übung-1c",
             "depth": 3
           },
           {
             "value": "1.13 Übung 5c",
-            "url": "#113-übung-5c-8",
+            "url": "#113-übung-5c",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-288",
+            "url": "#lösung-32",
             "depth": 2
           }
         ],
@@ -3846,87 +3949,87 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-130",
+            "url": "#kursbuch-7",
             "depth": 2
           },
           {
             "value": "1.14 Aufgabe 2d",
-            "url": "#114-aufgabe-2d-7",
+            "url": "#114-aufgabe-2d",
             "depth": 3
           },
           {
             "value": "1.15 Aufgabe 4a",
-            "url": "#115-aufgabe-4a-7",
+            "url": "#115-aufgabe-4a",
             "depth": 3
           },
           {
             "value": "1.16 Aufgabe 4c",
-            "url": "#116-aufgabe-4c-7",
+            "url": "#116-aufgabe-4c",
             "depth": 3
           },
           {
             "value": "1.17 Aufgabe 5a",
-            "url": "#117-aufgabe-5a-7",
+            "url": "#117-aufgabe-5a",
             "depth": 3
           },
           {
             "value": "1.18 Aufgabe 5c",
-            "url": "#118-aufgabe-5c-7",
+            "url": "#118-aufgabe-5c",
             "depth": 3
           },
           {
             "value": "1.19 Aufgabe 6b",
-            "url": "#119-aufgabe-6b-7",
+            "url": "#119-aufgabe-6b",
             "depth": 3
           },
           {
             "value": "1.20 Aufgabe 7a",
-            "url": "#120-aufgabe-7a-7",
+            "url": "#120-aufgabe-7a",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-295",
+            "url": "#lösung-19",
             "depth": 2
           },
           {
             "value": "Ünung",
-            "url": "#ünung-51",
+            "url": "#ünung-2",
             "depth": 2
           },
           {
             "value": "1.21 Übung 1a",
-            "url": "#121-übung-1a-7",
+            "url": "#121-übung-1a",
             "depth": 3
           },
           {
             "value": "1.22 Übung 3e",
-            "url": "#122-übung-3e-7",
+            "url": "#122-übung-3e",
             "depth": 3
           },
           {
             "value": "1.23 Übung 7a",
-            "url": "#123-übung-7a-7",
+            "url": "#123-übung-7a",
             "depth": 3
           },
           {
             "value": "1.24 Aufgabe 2",
-            "url": "#124-aufgabe-2-7",
+            "url": "#124-aufgabe-2",
             "depth": 3
           },
           {
             "value": "Aufgabe 3b und c",
-            "url": "#aufgabe-3b-und-c-7",
+            "url": "#aufgabe-3b-und-c",
             "depth": 3
           },
           {
             "value": "Aufgabe 1a",
-            "url": "#aufgabe-1a-16",
+            "url": "#aufgabe-1a-1",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-296",
+            "url": "#lösung-20",
             "depth": 2
           }
         ],
@@ -3985,102 +4088,102 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-132",
+            "url": "#kursbuch-6",
             "depth": 2
           },
           {
             "value": "1.33 Aufgabe 1a und 1b",
-            "url": "#133-aufgabe-1a-und-1b-7",
+            "url": "#133-aufgabe-1a-und-1b",
             "depth": 3
           },
           {
             "value": "1.34 Aufgabe 2b",
-            "url": "#134-aufgabe-2b-7",
+            "url": "#134-aufgabe-2b",
             "depth": 3
           },
           {
             "value": "1.35 Aufgabe 3a",
-            "url": "#135-aufgabe-3a-7",
+            "url": "#135-aufgabe-3a",
             "depth": 3
           },
           {
             "value": "1.36 Aufgabe 4b",
-            "url": "#136-aufgabe-4b-7",
+            "url": "#136-aufgabe-4b",
             "depth": 3
           },
           {
             "value": "Aufgabe 5c",
-            "url": "#aufgabe-5c-7",
+            "url": "#aufgabe-5c",
             "depth": 3
           },
           {
             "value": "Aufgabe 6a",
-            "url": "#aufgabe-6a-16",
+            "url": "#aufgabe-6a-1",
             "depth": 3
           },
           {
             "value": "1.43 Aufgabe 6c",
-            "url": "#143-aufgabe-6c-7",
+            "url": "#143-aufgabe-6c",
             "depth": 3
           },
           {
             "value": "Aufgabe 8a",
-            "url": "#aufgabe-8a-7",
+            "url": "#aufgabe-8a",
             "depth": 3
           },
           {
             "value": "1.47 Aufgabe 9a",
-            "url": "#147-aufgabe-9a-7",
+            "url": "#147-aufgabe-9a",
             "depth": 3
           },
           {
             "value": "Aufgabe 9b",
-            "url": "#aufgabe-9b-7",
+            "url": "#aufgabe-9b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-299",
+            "url": "#lösung-17",
             "depth": 2
           },
           {
             "value": "Ünungen",
-            "url": "#ünungen-62",
+            "url": "#ünungen-2",
             "depth": 2
           },
           {
             "value": "Übung 2a",
-            "url": "#übung-2a-7",
+            "url": "#übung-2a",
             "depth": 3
           },
           {
             "value": "1.56 Übung 3c",
-            "url": "#156-übung-3c-7",
+            "url": "#156-übung-3c",
             "depth": 3
           },
           {
             "value": "1.57 Übung 4d",
-            "url": "#157-übung-4d-7",
+            "url": "#157-übung-4d",
             "depth": 3
           },
           {
             "value": "Übung 5c",
-            "url": "#übung-5c-7",
+            "url": "#übung-5c",
             "depth": 3
           },
           {
             "value": "1.62 Übung 6a",
-            "url": "#162-übung-6a-7",
+            "url": "#162-übung-6a",
             "depth": 3
           },
           {
             "value": "Übung 9",
-            "url": "#übung-9-7",
+            "url": "#übung-9",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-300",
+            "url": "#lösung-18",
             "depth": 2
           }
         ],
@@ -4139,82 +4242,82 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-131",
+            "url": "#kursbuch-11",
             "depth": 2
           },
           {
             "value": "1.71 Aufgabe 1b",
-            "url": "#171-aufgabe-1b-7",
+            "url": "#171-aufgabe-1b",
             "depth": 3
           },
           {
             "value": "1.72 Aufgabe 2a",
-            "url": "#172-aufgabe-2a-7",
+            "url": "#172-aufgabe-2a",
             "depth": 3
           },
           {
             "value": "1.73 Aufgabe 3a",
-            "url": "#173-aufgabe-3a-7",
+            "url": "#173-aufgabe-3a",
             "depth": 3
           },
           {
             "value": "Aufgabe 3c und 3d",
-            "url": "#aufgabe-3c-und-3d-14",
+            "url": "#aufgabe-3c-und-3d",
             "depth": 3
           },
           {
             "value": "1.77 Aufgabe 4a",
-            "url": "#177-aufgabe-4a-7",
+            "url": "#177-aufgabe-4a",
             "depth": 3
           },
           {
             "value": "1.78 Aufgabe 4b",
-            "url": "#178-aufgabe-4b-7",
+            "url": "#178-aufgabe-4b",
             "depth": 3
           },
           {
             "value": "Aufgabe 6b",
-            "url": "#aufgabe-6b-7",
+            "url": "#aufgabe-6b",
             "depth": 3
           },
           {
             "value": "1.81 Aufgabe 7a und 7b",
-            "url": "#181-aufgabe-7a-und-7b-7",
+            "url": "#181-aufgabe-7a-und-7b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-297",
+            "url": "#lösung-27",
             "depth": 2
           },
           {
             "value": "Ünungen",
-            "url": "#ünungen-61",
+            "url": "#ünungen-4",
             "depth": 2
           },
           {
             "value": "1.82 Übung 3a und b",
-            "url": "#182-übung-3a-und-b-7",
+            "url": "#182-übung-3a-und-b",
             "depth": 3
           },
           {
             "value": "1.83 Übung 4",
-            "url": "#183-übung-4-7",
+            "url": "#183-übung-4",
             "depth": 3
           },
           {
             "value": "Übung 5a",
-            "url": "#übung-5a-7",
+            "url": "#übung-5a",
             "depth": 3
           },
           {
             "value": "Übung 6b und 6c",
-            "url": "#übung-6b-und-6c-7",
+            "url": "#übung-6b-und-6c",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-298",
+            "url": "#lösung-28",
             "depth": 2
           }
         ],
@@ -4273,87 +4376,87 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-135",
+            "url": "#kursbuch-9",
             "depth": 2
           },
           {
             "value": "2.2 Aufgabe 1b",
-            "url": "#22-aufgabe-1b-17",
+            "url": "#22-aufgabe-1b-1",
             "depth": 3
           },
           {
             "value": "2.3 Aufgabe 3a",
-            "url": "#23-aufgabe-3a-7",
+            "url": "#23-aufgabe-3a",
             "depth": 3
           },
           {
             "value": "2.4 Aufgabe 4a und 4b",
-            "url": "#24-aufgabe-4a-und-4b-7",
+            "url": "#24-aufgabe-4a-und-4b",
             "depth": 3
           },
           {
             "value": "Aufgabe 5a",
-            "url": "#aufgabe-5a-16",
+            "url": "#aufgabe-5a-1",
             "depth": 3
           },
           {
             "value": "2.9 Aufgabe 5b",
-            "url": "#29-aufgabe-5b-7",
+            "url": "#29-aufgabe-5b",
             "depth": 3
           },
           {
             "value": "2.10 Aufgabe 5c",
-            "url": "#210-aufgabe-5c-17",
+            "url": "#210-aufgabe-5c-1",
             "depth": 3
           },
           {
             "value": "2.11 Aufgabe 5d",
-            "url": "#211-aufgabe-5d-7",
+            "url": "#211-aufgabe-5d",
             "depth": 3
           },
           {
             "value": "2.12 Aufgabe 6a und 6b",
-            "url": "#212-aufgabe-6a-und-6b-7",
+            "url": "#212-aufgabe-6a-und-6b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-305",
+            "url": "#lösung-23",
             "depth": 2
           },
           {
             "value": "Ünungen",
-            "url": "#ünungen-64",
+            "url": "#ünungen-3",
             "depth": 2
           },
           {
             "value": "2.13 Übung 2",
-            "url": "#213-übung-2-7",
+            "url": "#213-übung-2",
             "depth": 3
           },
           {
             "value": "Übung 4",
-            "url": "#übung-4-7",
+            "url": "#übung-4",
             "depth": 3
           },
           {
             "value": "2.17 Übung 6c",
-            "url": "#217-übung-6c-7",
+            "url": "#217-übung-6c",
             "depth": 3
           },
           {
             "value": "Übung 7a",
-            "url": "#übung-7a-7",
+            "url": "#übung-7a",
             "depth": 3
           },
           {
             "value": "2.21 Übung 8b",
-            "url": "#221-übung-8b-7",
+            "url": "#221-übung-8b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-306",
+            "url": "#lösung-24",
             "depth": 2
           }
         ],
@@ -4412,82 +4515,82 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-136",
+            "url": "#kursbuch-12",
             "depth": 2
           },
           {
             "value": "Aufgabe 1b",
-            "url": "#aufgabe-1b-33",
+            "url": "#aufgabe-1b-2",
             "depth": 3
           },
           {
             "value": "Aufgabe 2b",
-            "url": "#aufgabe-2b-16",
+            "url": "#aufgabe-2b-1",
             "depth": 3
           },
           {
             "value": "2.30 Aufgabe 3a",
-            "url": "#230-aufgabe-3a-7",
+            "url": "#230-aufgabe-3a",
             "depth": 3
           },
           {
             "value": "Aufgabe 3c und 3d",
-            "url": "#aufgabe-3c-und-3d-15",
+            "url": "#aufgabe-3c-und-3d-1",
             "depth": 3
           },
           {
             "value": "2.37 Aufgabe 3e",
-            "url": "#237-aufgabe-3e-7",
+            "url": "#237-aufgabe-3e",
             "depth": 3
           },
           {
             "value": "2.38 Aufgabe 3f",
-            "url": "#238-aufgabe-3f-7",
+            "url": "#238-aufgabe-3f",
             "depth": 3
           },
           {
             "value": "Aufgabe 7a und 7b",
-            "url": "#aufgabe-7a-und-7b-7",
+            "url": "#aufgabe-7a-und-7b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-307",
+            "url": "#lösung-29",
             "depth": 2
           },
           {
             "value": "Ünungen",
-            "url": "#ünungen-65",
+            "url": "#ünungen-5",
             "depth": 2
           },
           {
             "value": "Übung 1b",
-            "url": "#übung-1b-7",
+            "url": "#übung-1b",
             "depth": 3
           },
           {
             "value": "Übung 3a",
-            "url": "#übung-3a-7",
+            "url": "#übung-3a",
             "depth": 3
           },
           {
             "value": "2.46 Übung 3b",
-            "url": "#246-übung-3b-7",
+            "url": "#246-übung-3b",
             "depth": 3
           },
           {
             "value": "2.47 Übung 3c",
-            "url": "#247-übung-3c-7",
+            "url": "#247-übung-3c",
             "depth": 3
           },
           {
             "value": "2.48 Übung 7a",
-            "url": "#248-übung-7a-7",
+            "url": "#248-übung-7a",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-308",
+            "url": "#lösung-30",
             "depth": 2
           }
         ],
@@ -4546,62 +4649,62 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-134",
+            "url": "#kursbuch-14",
             "depth": 2
           },
           {
             "value": "2.60 Aufgabe 2b",
-            "url": "#260-aufgabe-2b-7",
+            "url": "#260-aufgabe-2b",
             "depth": 3
           },
           {
             "value": "Aufgabe 3d",
-            "url": "#aufgabe-3d-16",
+            "url": "#aufgabe-3d-1",
             "depth": 3
           },
           {
             "value": "2.63 Aufgabe 4a und 4b",
-            "url": "#263-aufgabe-4a-und-4b-7",
+            "url": "#263-aufgabe-4a-und-4b",
             "depth": 3
           },
           {
             "value": "2.64 Aufgabe 5c und 5d",
-            "url": "#264-aufgabe-5c-und-5d-7",
+            "url": "#264-aufgabe-5c-und-5d",
             "depth": 3
           },
           {
             "value": "2.65 Aufgabe 6b",
-            "url": "#265-aufgabe-6b-7",
+            "url": "#265-aufgabe-6b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-303",
+            "url": "#lösung-33",
             "depth": 2
           },
           {
             "value": "Ünungen",
-            "url": "#ünungen-63",
+            "url": "#ünungen-6",
             "depth": 2
           },
           {
             "value": "Übung 1",
-            "url": "#übung-1-7",
+            "url": "#übung-1",
             "depth": 3
           },
           {
             "value": "2.69 Übung 5d",
-            "url": "#269-übung-5d-7",
+            "url": "#269-übung-5d",
             "depth": 3
           },
           {
             "value": "2.70 Übung 6a",
-            "url": "#270-übung-6a-7",
+            "url": "#270-übung-6a",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-304",
+            "url": "#lösung-34",
             "depth": 2
           }
         ],
@@ -4660,87 +4763,87 @@
         "toc": [
           {
             "value": "Kursbuch",
-            "url": "#kursbuch-137",
+            "url": "#kursbuch-15",
             "depth": 2
           },
           {
             "value": "2.71 Aufgabe 1a und 1b",
-            "url": "#271-aufgabe-1a-und-1b-7",
+            "url": "#271-aufgabe-1a-und-1b",
             "depth": 3
           },
           {
             "value": "2.72 Aufgabe 2a",
-            "url": "#272-aufgabe-2a-7",
+            "url": "#272-aufgabe-2a",
             "depth": 3
           },
           {
             "value": "2.73 Aufgabe 2b",
-            "url": "#273-aufgabe-2b-7",
+            "url": "#273-aufgabe-2b",
             "depth": 3
           },
           {
             "value": "2.74 Aufgabe 3a",
-            "url": "#274-aufgabe-3a-7",
+            "url": "#274-aufgabe-3a",
             "depth": 3
           },
           {
             "value": "Aufgabe 3c",
-            "url": "#aufgabe-3c-7",
+            "url": "#aufgabe-3c",
             "depth": 3
           },
           {
             "value": "2.78 Aufgabe 4b",
-            "url": "#278-aufgabe-4b-7",
+            "url": "#278-aufgabe-4b",
             "depth": 3
           },
           {
             "value": "2.79 Aufgabe 5d",
-            "url": "#279-aufgabe-5d-7",
+            "url": "#279-aufgabe-5d",
             "depth": 3
           },
           {
             "value": "2.80 Aufgabe 5e",
-            "url": "#280-aufgabe-5e-7",
+            "url": "#280-aufgabe-5e",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-309",
+            "url": "#lösung-35",
             "depth": 2
           },
           {
             "value": "Ünungen",
-            "url": "#ünungen-66",
+            "url": "#ünungen-7",
             "depth": 2
           },
           {
             "value": "Übung 1a",
-            "url": "#übung-1a-7",
+            "url": "#übung-1a",
             "depth": 3
           },
           {
             "value": "Übung 3d",
-            "url": "#übung-3d-7",
+            "url": "#übung-3d",
             "depth": 3
           },
           {
             "value": "Übung 4a",
-            "url": "#übung-4a-7",
+            "url": "#übung-4a",
             "depth": 3
           },
           {
             "value": "2.91 Übung 5f",
-            "url": "#291-übung-5f-7",
+            "url": "#291-übung-5f",
             "depth": 3
           },
           {
             "value": "Übung 6a und b",
-            "url": "#übung-6a-und-b-7",
+            "url": "#übung-6a-und-b",
             "depth": 3
           },
           {
             "value": "Lösung",
-            "url": "#lösung-310",
+            "url": "#lösung-36",
             "depth": 2
           }
         ],
@@ -4758,109 +4861,6 @@
       "documentHash": "1740680013604",
       "hasWarnings": true,
       "documentTypeName": "Blog"
-    },
-    "blog/linie1-einsteigskurs/Linie1-EK-01.mdx": {
-      "document": {
-        "title": "Kapitel 1 - Teil 1",
-        "date": "2024-07-30T00:00:00.000Z",
-        "tags": [
-          "German",
-          "Language",
-          "Persian"
-        ],
-        "categories": [
-          "Einstiegskurs"
-        ],
-        "lastmod": "2024-07-31T00:00:00.000Z",
-        "draft": true,
-        "summary": "An overview of the new features on NextPress for some language wcich write from right ti left",
-        "images": [
-          "/static/images/twitter-card.png"
-        ],
-        "authors": [
-          "default"
-        ],
-        "layout": "PostLayout",
-        "bibliography": "references-data.bib",
-        "body": {
-          "raw": "\n## 1",
-          "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var x=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)s(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of u(e))!p.call(t,r)&&r!==n&&s(t,r,{get:()=>e[r],enumerable:!(i=g(e,r))||i.enumerable});return t};var v=(t,e,n)=>(n=t!=null?m(f(t)):{},o(e||!t||!t.__esModule?s(n,\"default\",{value:t,enumerable:!0}):n,t)),_=t=>o(s({},\"__esModule\",{value:!0}),t);var c=x((M,l)=>{l.exports=_jsx_runtime});var j={};w(j,{default:()=>d,frontmatter:()=>b});var a=v(c()),b={title:\"Kapitel 1 - Teil 1\",date:\"2024-07-30\",lastmod:\"2024-07-31\",authors:[\"default\"],tags:[\"German\",\"Language\",\"Persian\"],categories:[\"Einstiegskurs\"],images:[\"/static/images/twitter-card.png\"],summary:\"An overview of the new features on NextPress for some language wcich write from right ti left\",bibliography:\"references-data.bib\",layout:\"PostLayout\",draft:!0};function h(t){let e={a:\"a\",h2:\"h2\",path:\"path\",span:\"span\",svg:\"svg\",...t.components};return(0,a.jsxs)(e.h2,{className:\"content-header\",id:\"1\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#1\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"1\"]})}function d(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(h,{...t})}):h(t)}return _(j);})();\n;return Component;"
-        },
-        "_id": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
-        "_raw": {
-          "sourceFilePath": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
-          "sourceFileName": "Linie1-EK-01.mdx",
-          "sourceFileDir": "blog/linie1-einsteigskurs",
-          "contentType": "mdx",
-          "flattenedPath": "blog/linie1-einsteigskurs/Linie1-EK-01"
-        },
-        "type": "Blog",
-        "readingTime": {
-          "text": "1 min read",
-          "minutes": 0.01,
-          "time": 600,
-          "words": 2
-        },
-        "slug": "linie1-einsteigskurs/Linie1-EK-01",
-        "path": "blog/linie1-einsteigskurs/Linie1-EK-01",
-        "filePath": "blog/linie1-einsteigskurs/Linie1-EK-01.mdx",
-        "toc": [
-          {
-            "value": "1",
-            "url": "#1-6",
-            "depth": 2
-          }
-        ],
-        "structuredData": {
-          "@context": "https://schema.org",
-          "@type": "BlogPosting",
-          "headline": "Kapitel 1 - Teil 1",
-          "datePublished": "2024-07-30T00:00:00.000Z",
-          "dateModified": "2024-07-31T00:00:00.000Z",
-          "description": "An overview of the new features on NextPress for some language wcich write from right ti left",
-          "image": "/static/images/twitter-card.png",
-          "url": "https://sepdek.vercel.app/blog/linie1-einsteigskurs/Linie1-EK-01"
-        }
-      },
-      "documentHash": "1736644274935",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
-    "authors/default.mdx": {
-      "document": {
-        "name": "Admin",
-        "avatar": "/static/images/authors/admin.png",
-        "occupation": "Teacher",
-        "company": "OkSep",
-        "coverImage": "https://picsum.photos/1200/300",
-        "website": "https://sepdek.ir",
-        "body": {
-          "raw": "\nI try to teach languages in an easy way.\n",
-          "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),_=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,c)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of x(e))!g.call(t,o)&&o!==n&&a(t,o,{get:()=>e[o],enumerable:!(c=d(e,o))||c.enumerable});return t};var l=(t,e,n)=>(n=t!=null?h(f(t)):{},s(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),j=t=>s(a({},\"__esModule\",{value:!0}),t);var p=y((v,i)=>{i.exports=_jsx_runtime});var M={};_(M,{default:()=>u,frontmatter:()=>w});var r=l(p()),w={name:\"Admin\",avatar:\"/static/images/authors/admin.png\",coverImage:\"https://picsum.photos/1200/300\",occupation:\"Teacher\",company:\"OkSep\",website:\"https://sepdek.ir\"};function m(t){let e={p:\"p\",...t.components};return(0,r.jsx)(e.p,{children:\"I try to teach languages in an easy way.\"})}function u(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(m,{...t})}):m(t)}return j(M);})();\n;return Component;"
-        },
-        "_id": "authors/default.mdx",
-        "_raw": {
-          "sourceFilePath": "authors/default.mdx",
-          "sourceFileName": "default.mdx",
-          "sourceFileDir": "authors",
-          "contentType": "mdx",
-          "flattenedPath": "authors/default"
-        },
-        "type": "Authors",
-        "readingTime": {
-          "text": "1 min read",
-          "minutes": 0.045,
-          "time": 2700,
-          "words": 9
-        },
-        "slug": "default",
-        "path": "authors/default",
-        "filePath": "authors/default.mdx",
-        "toc": []
-      },
-      "documentHash": "1740688552287",
-      "hasWarnings": false,
-      "documentTypeName": "Authors"
     }
   }
 }
